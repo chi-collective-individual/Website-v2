@@ -61,12 +61,13 @@ h1{
 /* Caption text */
 .text {
   color: #f2f2f2;
-  font-size: 15px;
+  background-color:rgba(0,0,0,0.8);
+  font-size: 20px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
-  width: 100%;
-  text-align: center;
+  width: 20%;
+  text-align: left;
 }
 
 /* Number text (1/3 etc) */
