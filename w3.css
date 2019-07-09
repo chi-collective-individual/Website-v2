@@ -25,7 +25,7 @@ legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}t
 ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
 /* End extract */
 html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
-h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.w3-serif{font-family:serif}
+h1{font-size:60px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.w3-serif{font-family:serif}
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.w3-wide{letter-spacing:4px}
 hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-image{max-width:100%;height:auto}img{vertical-align:middle}a{color:inherit}
@@ -142,7 +142,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-padding-32{padding-top:32px!important;padding-bottom:32px!important}.w3-padding-48{padding-top:48px!important;padding-bottom:48px!important}
 .w3-padding-64{padding-top:64px!important;padding-bottom:64px!important}
 .w3-left{float:left!important}.w3-right{float:right!important}
-.w3-button:hover{color:#000!important;background-color:#ccc!important}
+.w3-button:hover{color:#fff!important;background-color:#0000d3!important} /*Button hover*/
 .w3-transparent,.w3-hover-none:hover{background-color:transparent!important}
 .w3-hover-none:hover{box-shadow:none!important}
 /* Colors */
@@ -230,8 +230,6 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-border-dark-grey,.w3-hover-border-dark-grey:hover,.w3-border-dark-gray,.w3-hover-border-dark-gray:hover{border-color:#616161!important}
 .w3-border-pale-red,.w3-hover-border-pale-red:hover{border-color:#ffe7e7!important}.w3-border-pale-green,.w3-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}
-
-/*Color theme*/
 
 .w3-theme-l5 {color:#000 !important; background-color:#ededff !important}
 .w3-theme-l4 {color:#000 !important; background-color:#c3c3ff !important}
