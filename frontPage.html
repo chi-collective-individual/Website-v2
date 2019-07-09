@@ -2,8 +2,13 @@
 <html lang="no-nb">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" type="text/css" href="w3.css" />
+
+<link rel="stylesheet" href="w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
 <script src="slideshow.js" defer></script>
 
 <title>Students as Partners</title>
@@ -11,45 +16,60 @@
 </head>
 <body>
 
-<a href="frontPage.html" id="head"><h1>Students as Partners</h1></a>
+<header class="w3-theme w3-row">
 
+<div class="w3-dropdown-hover w3-col" style="width:50px">
+<button class="w3-button w3-theme-l2"><i class="material-icons">menu</i></button>
+<div class="w3-dropdown-content w3-bar-block w3-border">
+<a href="forskningsassistent.html" class="w3-bar-item w3-button">Forskningsassistent</a>
+<a href="forskningsprosjekt.html" class="w3-bar-item w3-button">Forskningsprosjekter</a>
+<a href="emneutvikler.html"class="w3-bar-item w3-button">Emneutvikler</a>
+<a href="studentprosjketer.html"class="w3-bar-item w3-button">Studentprosjekter</a>
+</div>
+</div>
+
+<div class="w3-rest w3-container">
+<h1 style="text-align:center"><a href="frontPage.html" style="text-decoration:none">Students as Partners</a></h1>
+</div>
+</header>
+
+<div class="w3-padding-large">
 <!--Slideshow, got the code from https://www.w3schools.com/howto/howto_js_slideshow.asp -->
 
 <!-- Slideshow container -->
-<div class="slideshow-container">
+<div class="w3-container">
 
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="alenka.jpg" style="width:100%">
-    <div class="text"><a href="intervjuAlenka.html">Alenka Behsen<br>Forskningsassistent&rarr;</a></div>
+
+<div class="w3-content w3-display-container">
+
+<div class="w3-display-container mySlides">
+  <img src="alenka.jpg" style="width:100%">
+  <div class="w3-display-bottomleft w3-large w3-container w3-padding-16 w3-black">
+    <a href="intervjuAlenka.html">Alenka Behsen<br>Forskningsassistent&rarr;</a>
   </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="håvard.jpg" style="width:100%">
-    <div class="text"><a href="intervjuHåvard.html">Håvard Bakke<br>Forskningsassistent&rarr;</a></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="scienceone.webp" style="width:100%">
-    <div class="text">Caption Three</div>
-  </div>
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
 
+<div class="w3-display-container mySlides">
+  <img src="håvard.jpg" style="width:100%">
+  <div class="w3-display-bottomleft w3-large w3-container w3-padding-16 w3-black">
+    <a href="intervjuHåvard.html">Håvard Bakke<br>Forskningsassistent&rarr;</a>
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="B_felt_1_sirkel.jpg" style="width:100%">
+  <div class="w3-display-bottomleft w3-large w3-container w3-padding-16 w3-black">
+    Lys påvirket av magnetfelt
+  </div>
+</div>
+
+
+<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
+
+<!--Can't attach indicators that actually shifts pages-->
+
+</div>
 <!--Slideshow done-->
 
 <div class="narrowpage">
@@ -101,6 +121,7 @@ Dette er studentdrevne prosjekter. Alt fra store til små prosjekter er mulig å
 </div>
 
 </div><!--End of second splitted part-->
+
 <h2>Nyheter</h2>
 Nyheter og artikler om ulike studentprosjekter, ansatte forskningsassistenter sine tanker og lignende legges ut her fortløpende. Slideshowet øverst er også hyperlinker til uthevede artikler.
 
@@ -108,7 +129,9 @@ Nyheter og artikler om ulike studentprosjekter, ansatte forskningsassistenter si
 <li><a title="Intervju Alenka" href="intervjuAlenka.html" class="news">Intervju med forskningsassistent Alenka Behsen</a></li>
 <li><a title="Intervju Håvard" href="intervjuHåvard.html" class="news">Intervju med forskningsassistent Håvard Bakke</a></li>
 </ul>
-  
-  </div>
+
+Flere nyheter
+
+</div>
 </body>
 </html>
