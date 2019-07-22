@@ -1,0 +1,141 @@
+/*Slideshow*/
+.slidshow-container{
+	overflow: hidden;
+  position: relative;
+  margin:auto;
+  max-height: 800px;
+  box-sizing: border-box;
+}
+.mySlides img{
+  width: 100%;
+  max-height: 500px;
+  overflow: hidden;
+  z-index: 1;
+}
+.mySlides .text {
+  color: #fff;
+  background-color: #000;
+  font-size: 30px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 50%;
+  width: 30%;
+  left: 35%;
+  opacity: 0.7;
+  text-align: center;
+  z-index: 10;
+}
+.text:hover{
+  background-color: #FFF;
+  color: #000;
+}
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+.container{
+  width: 100%;
+  box-sizing: border-box;
+  line-height: 1.4;
+  padding: 10px 15%;
+  margin: 50px 0;
+  overflow: hidden;
+}
+.flex-container{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+  /*max-height: 100px;*/
+  max-width: 100%;
+  align-content: space-around;
+  margin: 20px 0;
+  overflow: hidden;
+}
+.proj .flex-items{
+  flex-grow: 1;
+  padding: 5px;
+  font-size: 12px;
+  max-width: 33%;
+}
+.proj .flex-items img{
+  max-height: 175px;
+  overflow: scroll;
+
+}
+.container .workshop{ /*Circles with names of the workshops. A lot of changes will happen here.*/
+  box-sizing: border-box;
+  position: relative;
+  top:50%;
+  left:25%;
+  border: 1px solid black;
+  border-radius: 90px;
+  width: 180px;
+  height: 180px;
+  overflow: hidden;
+  text-align: center;
+  padding: 50px;
+  display: inline-block;
+  margin: 40px;
+}
+.workshop a{
+  text-decoration: none;
+}
+/*Background colors for the different parts of the page*/
+#onProj{
+  background-image: linear-gradient( hsla(326, 100%, 75%, 0.4), hsla(326, 100%, 75%, 0.9), hsla(326, 100%, 75%, 0.4));
+}
+#prevProj{
+  background-image: linear-gradient(hsla(240, 100%, 75%, 0.4), hsla(240, 100%, 75%, 0.9), hsla(240, 100%, 75%, 0.4));
+}
+#workshops{
+  background-image: linear-gradient(hsla(30, 100%, 75%, 0.4), hsla(30, 100%, 75%, 0.9), hsla(30, 100%, 75%, 0.4));
+}
+.flex-items{
+  max-width: 33%;
+}
+.workplace{
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+.workplace .flex-items{
+  line-height: 1.4;
+  padding: 5px;
+  min-width: 150px;
+}
+.usefulPages {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 5%;
+  margin: 50px 0;
+  overflow: hidden;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+}
+.usefulPages p{
+  max-width: 350px;
+  border: 1px solid black;
+  padding: 10px;
+  line-height: 1.6;
+  /*min-width: 50px;*/
+  flex-shrink: 1;
+  border-radius: 10px;
+}
+.usefulPages b{
+  font-size: 20px;
+  letter-spacing: 1px;
+}
