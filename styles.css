@@ -3,14 +3,19 @@
 	overflow: hidden;
   position: relative;
   margin:auto;
-  max-height: 800px;
-  box-sizing: border-box;
+  /*box-sizing: border-box;*/
+}
+.mySlides{
+  background-image: linear-gradient(to right, hsla(201, 28%, 52%, 0), hsla(201, 28%, 52%, 1), hsla(201, 28%, 52%, 0));
+  height: 600px;  
 }
 .mySlides img{
-  width: 100%;
-  max-height: 500px;
+  height: 600px;
   overflow: hidden;
   z-index: 1;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 .mySlides .text {
   color: #fff;
@@ -18,7 +23,7 @@
   font-size: 30px;
   padding: 8px 12px;
   position: absolute;
-  top: 50%;
+  top: 383.25px; /*needs to specify when the top gets folded, i.e. to small screen*/
   width: 30%;
   left: 35%;
   opacity: 0.7;
@@ -59,7 +64,6 @@
   flex-flow: row wrap;
   justify-content: space-around;
   align-items: center;
-  /*max-height: 100px;*/
   max-width: 100%;
   align-content: space-around;
   margin: 20px 0;
@@ -69,27 +73,11 @@
   flex-grow: 1;
   padding: 5px;
   font-size: 12px;
-  max-width: 33%;
+
 }
 .proj .flex-items img{
   max-height: 175px;
   overflow: scroll;
-
-}
-.container .workshop{ /*Circles with names of the workshops. A lot of changes will happen here.*/
-  box-sizing: border-box;
-  position: relative;
-  top:50%;
-  left:25%;
-  border: 1px solid black;
-  border-radius: 90px;
-  width: 180px;
-  height: 180px;
-  overflow: hidden;
-  text-align: center;
-  padding: 50px;
-  display: inline-block;
-  margin: 40px;
 }
 .workshop a{
   text-decoration: none;
@@ -104,9 +92,11 @@
 #workshops{
   background-image: linear-gradient(hsla(30, 100%, 75%, 0.4), hsla(30, 100%, 75%, 0.9), hsla(30, 100%, 75%, 0.4));
 }
-.flex-items{
-  max-width: 33%;
+#exProj{
+  background-image: linear-gradient(hsla(200, 100%, 75%, 0.4), hsla(200, 100%, 75%, 0.9), hsla(200, 100%, 75%, 0.4));
 }
+/*Colors finished*/
+
 .workplace{
   flex-wrap: wrap;
   align-items: baseline;
@@ -115,6 +105,7 @@
   line-height: 1.4;
   padding: 5px;
   min-width: 150px;
+  max-width: 33%;
 }
 .usefulPages {
   width: 100%;
@@ -125,17 +116,47 @@
   display: flex;
   flex-flow: wrap;
   justify-content: space-around;
+  align-items: baseline;
 }
-.usefulPages p{
+.usefulPages .flex-items{
   max-width: 350px;
   border: 1px solid black;
   padding: 10px;
-  line-height: 1.6;
-  /*min-width: 50px;*/
-  flex-shrink: 1;
+  line-height: 1.4;
   border-radius: 10px;
 }
 .usefulPages b{
   font-size: 20px;
   letter-spacing: 1px;
+}
+.usefulPages a{
+  margin-bottom: 10px;
+  border-radius: 10px; 
+}
+.usefulPages a:hover{
+  box-shadow:5px 5px 5px 5px rgba(0,0,0,0.2);
+ }
+ #exProj a{
+   text-decoration: underline;
+ }
+ #exProj a:hover{
+   background-color: hsla(200, 100%, 35%, 1);
+   color: #FFF;
+   text-decoration: none;
+ }
+ 
+ 
+ 
+/*style til guide*/
+.startup{
+  display: block;
+  background-image: linear-gradient(to right, hsla(220, 100%, 50%, 0), hsla(220, 100%, 50%, 0.8));
+  /*opacity: 0.5;*/
+  max-width: 50%;
+}
+.ideTilPlan{
+  display: block;
+  background-image: linear-gradient(to left, hsla(220, 100%, 50%, 0), hsla(220, 100%, 50%, 0.8));
+  max-width: 50%;
+  margin-left: 50%;
 }
