@@ -173,6 +173,7 @@
 }
 .bottomGuide .flex-container{
     background-color: hsla(84, 9%, 24%, 0.90);
+    color:pink;	
 }
 .guide img{
   width: 600px;
