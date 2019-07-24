@@ -171,8 +171,8 @@
   font-family: 'Raleway', sans-serif;
   max-width: 450px;
 }
-.centerGuide{
-    background-image: linear-gradient(to right, hsla(120, 100%, 50%, 0), hsla(120, 100%, 50%, 0.4));
+.bottomGuide .flex-container{
+    background-color: hsla(84, 9%, 24%, 0.90);
 }
 .guide img{
   width: 600px;
