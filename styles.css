@@ -171,6 +171,9 @@
   font-family: 'Raleway', sans-serif;
   max-width: 450px;
 }
+.centerGuide{
+    background-image: linear-gradient(to right, hsla(120, 100%, 50%, 0), hsla(120, 100%, 50%, 0.4));
+}
 .guide img{
   width: 600px;
   height:auto;
