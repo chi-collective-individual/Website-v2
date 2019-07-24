@@ -148,15 +148,74 @@
  
  
 /*style til guide*/
-.startup{
-  display: block;
-  background-image: linear-gradient(to right, hsla(220, 100%, 50%, 0), hsla(220, 100%, 50%, 0.8));
+.guide h2{
+  text-align: center;
+  font-size: 40px;
+}
+.guide h3{
+  text-align: center;
+}
+.guide .flex-container{
+  flex-wrap: wrap;
+  align-content: space-between;
+  margin: 0;
+  max-width:1200px;
+}
+.leftGuide{
+  background-image: linear-gradient(to right, hsla(220, 100%, 50%, 0), hsla(220, 100%, 50%, 0.4));
   /*opacity: 0.5;*/
-  max-width: 50%;
 }
-.ideTilPlan{
-  display: block;
-  background-image: linear-gradient(to left, hsla(220, 100%, 50%, 0), hsla(220, 100%, 50%, 0.8));
-  max-width: 50%;
-  margin-left: 50%;
+.leftGuide p{
+  margin-left:15%;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+  max-width: 450px;
 }
+.guide img{
+  width: 600px;
+  height:auto;
+  display: flex;
+  align-self: left;
+}
+.rightGuide{
+  background-image: linear-gradient(to left, hsla(220, 100%, 50%, 0), hsla(220, 100%, 50%, 0.4));
+}
+.rightGuide .flex-items{
+  flex-wrap: wrap;
+  max-width: 600px;
+}
+.rightGuide p{
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+  max-width: 450px;
+  margin-right: 15%;
+}
+.rightGuide img{
+  width:600px;
+  display: flex;
+  padding-bottom: 5px;
+}
+#leader img{
+  margin-bottom: 70px;
+}
+
+
+/*responsive for very big screens*/
+@media only screen and(min-width: 1200px){
+  .startup{
+    margin-left: 25%;
+    
+  }
+}
+
+/*responsive for medium screens. Make the picture hide*/
+@media only screen and(min-width: 481px) and (max-width: 991px){
+  .startup{
+    margin-left: 5px;
+  }
+}
+
+/*responsive for small screens*/
+@media only screen and (max-width: 480px){
+  
+} 
