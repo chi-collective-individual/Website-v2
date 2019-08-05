@@ -1,4 +1,3 @@
-
 <div class="menu"> 
     <ul>
         <lh><a href="https://ntnu.no/fysikk" title="Institutt for Fysikk" target="_blank"><img src="../images/ifyLogo.jpg"></a></lh>

@@ -13,7 +13,7 @@
     </head>
     <body>
         
-        <?php include("menu.php"); ?>
+        <?php include("menuFrontPage.php"); ?>
         <!--container for the header that is in all pages-->
         <div class="indent">
             <img src="images/facultyFocus.jpg">

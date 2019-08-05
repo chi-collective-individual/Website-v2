@@ -12,27 +12,14 @@
         <title>Students as Partners</title>
     </head>
     <body>
-        <!--container for the header that is in all pages-->
-        <div class="menu"> 
-            <!--PHP file with the menu and header. Uncomment and delete the menu from here when using php on server. <?php include('menu.php');?> -->
-            <ul>
-                <lh><a href="https://ntnu.no/fysikk" title="Institutt for Fysikk" target="_blank"><img src="../images/ifyLogo.jpg"></a></lh>
-                <a href="../index.html" target="_self" title="Students as Partners"><li>Hjem</li></a>
-                <a href="../forskningsassistent/index.html" title="Forskningsassistent"><li>Forskningsassistent</li></a>
-                <a href="../forskningsprosjekter/index.html" title="Forskningsprosjekter"><li>Forskningsprosjekter</li></a>
-                <a href="emneutvikler/index.html" target="_self" title="Emneutvikler"><li>Emneutvikler</li></a>
-                <a href="../studentprosjekter/index.html" title="Studentprosjekter"><li>Studentprosjekter</li></a>
-                <a href="../nyheter/index.html" title="Nyheter"><li>Nyheter</li></a>
-                <a href="kontakt/index.html" title="Kontakt"><li>Kontakt</li></a>
-            </ul>
-        </div>
+        <?php include("../menu.php"); ?>
 
         <div class="indent">
             <img src="../images/facultyFocus.jpg">
 
             <!--Information about SaP-->
-            <h1>Emneutvikler</h1>
-            <p class="center-paragraph">.Vil du bidra til å utvikle læringsressurser for kommende studentkull? Ønsker du å få mer kunnskap om god pedagogisk praksis og å videreutvikle undervisningen av fysikk? I Students as Partners (SaP) prosjektet er vi interesserte i å komme i kontakt med studenter som kan tenke seg å bidra til å utvikle morgendagens emner og undervisningen av disse. Du vil samarbeide med faglærere og ressurspersoner innen SaP-prosjektet, som alle jobber mot det samme målet: god undervisning. </p>
+            <h1>Forskningsassistent</h1>
+            <p class="center-paragraph">Lurer du på hvordan man bruker avansert teori i nyskapende forskning? Ved å være forskningsassistent ved Institutt for fysikk vil du arbeide med vitenskapelig ansatte i deres forskningsprosjekter. Dette gir deg muligheten til å bli med i et av Norges fremste forskningsmiljø lenge før du skal skrive prosjekt eller masteroppgave. </p>
             
             <!--Active project announcements-->
             <div class="bg-blue">
@@ -77,13 +64,7 @@
             </div>
 
             <!--Footer-->
-            <div class="bg-smaragd">
-                <h1 class="mt">Mer informasjon</h1>
-                <div class="flex-container footer">
-                    <p class="footer-paragraph">For mer informasjon om prosjektutlysninger, henvend deg til kontaktpersonen angitt i utlysningen.<br>Finner du ingen utlysninger som stemmer overnes med dine interesser, sjekk ut <a href="../studentprosjekter/index.html">studentprosjekter</a> siden. <br>Dersom du har andre kommentarer eller spørsmål, vennligst kontakt en av studentassistentene under <a href="../kontakt.html">kontakt</a>.</p>
-                    
-                </div>
-            </div>
+            <?php include("../footer.php"); ?>
         </div>
     </body>
 </html>
