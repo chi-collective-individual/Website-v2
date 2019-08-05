@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html land="no-nb">
+<html lang="no-nb">
     
                 
     <head>

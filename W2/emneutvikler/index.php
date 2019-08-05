@@ -65,12 +65,7 @@
             </div>
 
             <!--Footer-->
-<<<<<<< HEAD:W2/emneutvikler/index.php
-          <?php include ("../footer_prosjekt.php"); ?>
-
-=======
-            <?php include("footerFrontPage.php"); ?>
->>>>>>> f04732492d3509ee4c42adc17adfa14fc97a7c36:W2/emneutvikler/index.html
+            <?php include("../footer.php"); ?>
         </div>
     </body>
 </html>
