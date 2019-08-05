@@ -13,26 +13,15 @@
     </head>
     <body>
         <!--container for the header that is in all pages-->
-        <div class="menu"> 
-            <!--PHP file with the menu and header. Uncomment and delete the menu from here when using php on server. <?php include('menu.php');?> -->
-            <ul>
-                <lh><a href="https://ntnu.no/fysikk" title="Institutt for Fysikk" target="_blank"><img src="../images/ifyLogo.jpg"></a></lh>
-                <a href="../index.html" target="_self" title="Students as Partners"><li>Hjem</li></a>
-                <a href="forskningsassistent/index.html" title="Forskningsassistent"><li>Forskningsassistent</li></a>
-                <a href="forskningsprosjekter/index.html" title="Forskningsprosjekter"><li>Forskningsprosjekter</li></a>
-                <a href="emneutvikler/index.html" title="Emneutvikler"><li>Emneutvikler</li></a>
-                <a href="studentprosjekter/index.html" title="Studentprosjekter"><li>Studentprosjekter</li></a>
-                <a href="nyheter/index.html" title="Nyheter"><li>Nyheter</li></a>
-                <a href="kontakt.html" title="Kontakt"><li>Kontakt</li></a>
-            </ul>
-        </div>
+        <?php include('../menu.php'); ?>
+
 
         <div class="indent">
             <img src="../images/facultyFocus.jpg">
 
             <!--Information about SaP-->
-            <h1>Forskningsassistent</h1>
-            <p class="center-paragraph">Lurer du på hvordan man bruker avansert teori i nyskapende forskning? Ved å være forskningsassistent ved Institutt for fysikk vil du arbeide med vitenskapelig ansatte i deres forskningsprosjekter. Dette gir deg muligheten til å bli med i et av Norges fremste forskningsmiljø lenge før du skal skrive prosjekt eller masteroppgave. </p>
+            <h1>Forskningsprosjekter</h1>
+            <p class="center-paragraph">Hvis du ønsker å prøve deg som forsker er dette perfekt for deg! Du får muligheten til å arbeide med vitenskapelig ansatte sine prosjekter på egenhånd. Prosjektene varierer mye, fra numerisk analyse til å reprodusere eksperimentelle forsøk. Dette er en ypperlig måte å bruke og videreutvikle kunnskapen du lærer i emnene på instituttet. Det er også en super forberedelse til prosjekt- og masteroppgave.</p>
             
             <!--Active project announcements-->
             <div class="bg-blue">
@@ -77,13 +66,7 @@
             </div>
 
             <!--Footer-->
-            <div class="bg-smaragd">
-                <h1 class="mt">Mer informasjon</h1>
-                <div class="flex-container footer">
-                    <p class="footer-paragraph">For mer informasjon om prosjektutlysninger, henvend deg til kontaktpersonen angitt i utlysningen.<br>Finner du ingen utlysninger som stemmer overnes med dine interesser, sjekk ut <a href="../studentprosjekter/index.html">studentprosjekter</a> siden. <br>Dersom du har andre kommentarer eller spørsmål, vennligst kontakt en av studentassistentene under <a href="../kontakt.html">kontakt</a>.</p>
-                    
-                </div>
-            </div>
+            <?php include("../footer.php"); ?>
         </div>
     </body>
 </html>

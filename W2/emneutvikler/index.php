@@ -12,6 +12,11 @@
         <title>Students as Partners</title>
     </head>
     <body>
+<<<<<<< HEAD:W2/emneutvikler/index.php
+=======
+        <!--container for the header that is in all pages-->
+        <?php include("../menu.php"); ?>
+>>>>>>> f04732492d3509ee4c42adc17adfa14fc97a7c36:W2/emneutvikler/index.html
 
     <!--Menu-->
     <?php include("../menu.php"); ?> 
@@ -66,8 +71,12 @@
             </div>
 
             <!--Footer-->
+<<<<<<< HEAD:W2/emneutvikler/index.php
           <?php include ("../footer_prosjekt.php"); ?>
 
+=======
+            <?php include("footerFrontPage.php"); ?>
+>>>>>>> f04732492d3509ee4c42adc17adfa14fc97a7c36:W2/emneutvikler/index.html
         </div>
     </body>
 </html>

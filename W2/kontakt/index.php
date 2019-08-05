@@ -13,6 +13,7 @@
     </head>
     <body>
         <!--container for the header that is in all pages-->
+<<<<<<< HEAD:W2/kontakt/index.html
         <div class="menu"> 
             <!--PHP file with the menu and header. Uncomment and delete the menu from here when using php on server. <?php include('menu.php');?> -->
             <ul>
@@ -26,6 +27,9 @@
                 <a href="../kontakt/index.html" title="Kontakt"><li>Kontakt</li></a>
             </ul>
         </div>
+=======
+        <?php include(""../menu.php"); ?>
+>>>>>>> f04732492d3509ee4c42adc17adfa14fc97a7c36:W2/kontakt/index.php
 
         <div class="indent">
             <!--<img src="images/facultyFocus.jpg"> -->

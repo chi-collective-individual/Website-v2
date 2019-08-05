@@ -12,9 +12,15 @@
         <title>Students as Partners</title>
     </head>
     <body>
+<<<<<<< HEAD
         <!--container for the header that is in all pages-->       
   <?php include("menu.php"); ?>
   
+=======
+        
+        <?php include("menuFrontPage.php"); ?>
+        <!--container for the header that is in all pages-->
+>>>>>>> f04732492d3509ee4c42adc17adfa14fc97a7c36
         <div class="indent">
             <img src="images/facultyFocus.jpg">
 
