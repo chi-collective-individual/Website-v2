@@ -81,6 +81,16 @@ lh img{
     font-size: 22px;
     margin-bottom: 40px;
 }
+.footer-paragraph{
+    text-align: center;
+    padding: 20px;
+    width:100%;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.footer{
+    margin-bottom: 0px;
+}
 .mt{
     margin-top: 100px;
 }
@@ -100,7 +110,6 @@ lh img{
     font-size: 18px;
     padding: 10px;
 }
-
 .bg-smaragd{
     background-color: #006666;
     color: white;
