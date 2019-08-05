@@ -12,9 +12,9 @@
         <title>Students as Partners</title>
     </head>
     <body>
-        
-        <?php include("./menu.php";) ?>
-        <!--container for the header that is in all pages-->
+        <!--container for the header that is in all pages-->       
+  <?php include("menu.php"); ?>
+  
         <div class="indent">
             <img src="images/facultyFocus.jpg">
 
@@ -51,10 +51,9 @@
                 </div>
 
                 <div class="two-split">
-                        
-                        <p>The student research initative is a project developed by the Department of Physics in an attempt to make students and staff at the department work closer together in an early phase of the studies. One of the incentives to close the gap between students and lecturers is to give students the opportunity to work closer with the professors and other staffs research before they choose their masters project. Some members of the staff already include interested students in projects, however there are only a few students that are aware of this opportunity today. With this webpage we hope more students get knowledge of these opportunities and choose to take contact with their lecturers and other members of the staff.</p>
-                        <p>Another aspect of the initative and purpose of this page is to make it easier for students to create and get involved in student projects. The student projects can be everything from small experiments connected with a certain topic in a subject, or big interdisciplinary projects including many students and professors mentoring them.</p>
-                        <p>In a long perspective we hope this again will lead to greater knowledge of applied and theoretical physics. Applying and using the knowledge you gain from class on practical problems and real situations will broaden the understanding of scientific method and research. We also believe that seeing how you can use the knowledge you gain in class will lead to a greater interest in physics, and hope this makes the students even more motivated to learn.</p>
+                        <p>Students as Partners is all about experiencing new things. We believe that collaborating with some of the leading scientists in Norway will increase your interest in physics and develop your skills. By being more involved in real life research early in your studies you will increase your knowledge from the beggining. Getting to know more people make it easier to discuss problems or difficulties you might have with certain topics.</p><br>
+                        <p>SaP is an initiative made by the Department of Physics in 2019 to make students and staff work closer together. The incentive with the project is to make students more involved in the life of the department, learn how the professors work and eventually become even better students.</p><br>
+                        <p>Most of the information on this page is in Norwegian, nevertheless the research papers at the department is written in english. Thus, many of the research projects should be available to anyone. If you have difficulties with the language, don't hesitate to take contact woth those listed on the "Kontakt" page for help.</p>
                 </div>
             </div>
         </div>
