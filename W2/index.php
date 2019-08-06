@@ -37,23 +37,25 @@
             
             <!--News, keep this down to two or three-->
             <div class="bg-smaragd">
-            <h1 class="mt">Nyheter</h1>
-            <div class="flex-container">
-               <p class="split-narrow">Alenka har jobbet som forskningsassistent for Justin Wells de siste somrene. Les mer om hennes arbeidsoppgaver og erfaringer.<br><a href="nyheter/intervjuAlenka.php" class="white-arrow">&rarr;</a></p>
-               <p class="split-narrow">Håvard fikk sommerjobb hos Justin Wells. Les hvilke erfaringer han tok med seg etter en sommer med forskningsprosjekt.<br><a href="nyheter/intervjuHavard.php" class="white-arrow">&rarr;</a></p>
-            </div>
+                <h1 class="mt">Nyheter</h1>
+                <div class="flex-container">
+                    <p class="split-narrow">Alenka har jobbet som forskningsassistent for Justin Wells de siste somrene. Les mer om hennes arbeidsoppgaver og erfaringer.<br><a href="nyheter/intervjuAlenka.php" class="white-arrow">&rarr;</a></p>
+                    <p class="split-narrow">Håvard fikk sommerjobb hos Justin Wells. Les hvilke erfaringer han tok med seg etter en sommer med forskningsprosjekt.<br><a href="nyheter/intervjuHavard.php" class="white-arrow">&rarr;</a></p>
+                </div>
             </div>
             <!--Information about SaP in english-->
-            <h1 class="mt">English information</h1>
-            <div class="flex-container">
-                <div class="two-split">
-                    <img src="images/alenka.jpg"><!--insert image here-->
-                </div>
+            <div class="bg-blue">
+                <h1 class="mt">English information</h1>
+                <div class="flex-container">
+                    <div class="two-split">
+                        <img src="images/alenka.jpg"><!--insert image here-->
+                    </div>
 
-                <div class="two-split">
+                    <div class="two-split">
                         <p>Students as Partners is all about experiencing new things. We believe that collaborating with some of the leading scientists in Norway will increase your interest in physics and develop your skills. By being more involved in real life research early in your studies you will increase your knowledge from the beggining. Getting to know more people make it easier to discuss problems or difficulties you might have with certain topics.</p><br>
                         <p>SaP is an initiative made by the Department of Physics in 2019 to make students and staff work closer together. The incentive with the project is to make students more involved in the life of the department, learn how the professors work and eventually become even better students.</p><br>
                         <p>Most of the information on this page is in Norwegian, nevertheless the research papers at the department is written in english. Thus, many of the research projects should be available to anyone. If you have difficulties with the language, don't hesitate to take contact woth those listed on the "Kontakt" page for help.</p>
+                    </div>
                 </div>
             </div>
         </div>

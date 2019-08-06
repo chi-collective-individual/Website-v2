@@ -52,8 +52,8 @@
 
             <!--Past/outdated project announcements-->
             <div class="bg-blue">
-                <h1>Tidligere utlysninger</h1>
-                <p class="center-paragraph">Her kan du lese om tidligere utlysninger. Disse er ikke lenger mulige å søke på. </p>
+                <h1 class="mt">Tidligere prosjekter</h1>
+                <p class="center-paragraph">Her kan du lese om tidligere forskningsprosjekter. Disse er ikke lenger mulige å søke på. </p>
                 <div class="flex-container">
                     <a href="forskningsassistent/index.html" title="Forskningsassistent" class="two-split"><div class="hover-shadow"><h3>Forskningsassistent</h3><p>Ønsker du å bidra ved forskningsmiljøene på Institutt for fysikk? Lurer du på hvordan man bruker avansert teori i nyskapende forskning? Ved å være forskningsassistent ved Institutt for fysikk vil du arbeide med vitenskapelig ansatte i deres forskningsprosjekter. Dette gir deg muligheten til å bli med i et av Norges fremste forskningsmiljø lenge før du skal skrive prosjekt eller masteroppgave.</p></div></a>
     
