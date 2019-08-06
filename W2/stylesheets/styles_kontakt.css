@@ -116,7 +116,7 @@ lh img{
 }
 .split-narrow img{ 
     width: 300px;/*Want to make the student assistent photos the same size*/
-    length: 300px;
+    height: 300px;
 }
 .bg-smaragd{
     background-color: #006666;
