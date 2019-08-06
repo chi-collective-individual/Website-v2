@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Raleway';
 }
 body{
     max-width: 1500px;
@@ -44,7 +45,6 @@ lh img{
 .indent{
     margin-left: 300px;
     max-width: 100%;
-    font-family: 'Raleway';
     line-height: 1.5;
 }
 .indent img{
@@ -108,4 +108,18 @@ lh img{
 .white-arrow{
     color: white;
     font-size: 35px;
+}
+.footer-paragraph{
+    text-align: center;
+    padding: 20px;
+    width:100%;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.footer{
+    margin-bottom: 0px;
+}
+.footer a{
+    text-decoration: underline;
+    color: white;
 }
