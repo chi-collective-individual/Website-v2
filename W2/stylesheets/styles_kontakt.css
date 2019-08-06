@@ -57,13 +57,12 @@ lh img{
     display: flex;
     flex-flow: row wrap;
     margin: 20px 0;
-  /*  align-content: center;
-    justify-content: center;*/
+    align-content: center;
+    justify-content: center;
+    margin-left: auto; /*Add these margins to center the content*/
+    margin-right: auto;
 }
-.paragraph {
-    justify-content: baseline;
-    max-width: 100%;
-}
+
 
 .two-split{
     max-width: 50%;
@@ -113,7 +112,11 @@ lh img{
     max-width: 40%;
     font-size: 18px;
     padding: 10px;
-    
+    text-align: center;
+}
+.split-narrow img{ 
+    width: 300px;/*Want to make the student assistent photos the same size*/
+    length: 300px;
 }
 .bg-smaragd{
     background-color: #006666;
