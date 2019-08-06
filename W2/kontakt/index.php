@@ -4,7 +4,7 @@
                 
     <head>
         <meta charset="UTF-8">
-        <link rel="stylesheet" href="../stylesheets/styles_kontakt.css">
+        <link rel="stylesheet" href="../stylesheets/styles.css">
         <link rel="stylesheet" href=""> 
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet"><!--stylesheet for font family here-->
         <script src="scripts/slideshow.js" defer></script>
