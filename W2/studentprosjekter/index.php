@@ -24,7 +24,7 @@
             
             <!--Active project announcements-->
             <div class="bg-blue">
-                <h1>Annonser din egen idé</h1>
+                <h1>Annonser din idé</h1>
                 <p class="center-paragraph">Her publiseres nye prosjekter fortløpende. Send mail til en av studentassistentene (se <a href="./kontakt.html">kontakt</a>) der du beskriver ideén din og eventuelt hvem du ønsker å samarbeide med. </p>
                 <div class="flex-container">
                         <a title="Utlysning QuSpin" href="./Utlysning_QuSpin.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Utlysning QuSpin</h3><p>Hvordan ivaretas kvinneandelen i fysikkutdannelser? Det kan virke som at det er
@@ -51,8 +51,8 @@
 
             <!--Past/outdated project announcements-->
             <div class="bg-blue">
-                <h1>Tidligere utlysninger</h1>
-                <p class="center-paragraph">Her kan du lese om tidligere utlysninger. Disse er ikke lenger mulige å søke på. </p>
+                <h1>Tidligere prosjekter</h1>
+                <p class="center-paragraph">Her kan du lese om tidligere prosjekter. </p>
                 <div class="flex-container">
                     <a href="forskningsassistent/index.html" title="Forskningsassistent" class="two-split"><div class="hover-shadow"><h3>Forskningsassistent</h3><p>Ønsker du å bidra ved forskningsmiljøene på Institutt for fysikk? Lurer du på hvordan man bruker avansert teori i nyskapende forskning? Ved å være forskningsassistent ved Institutt for fysikk vil du arbeide med vitenskapelig ansatte i deres forskningsprosjekter. Dette gir deg muligheten til å bli med i et av Norges fremste forskningsmiljø lenge før du skal skrive prosjekt eller masteroppgave.</p></div></a>
     
