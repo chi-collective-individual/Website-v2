@@ -61,7 +61,7 @@
             </div>
 
             <!--Footer-->
-            <?php include("../footer.php"); ?>
+            <?php include("../footer_studentprosjekter.php"); ?>
         </div>
     </body>
 </html>

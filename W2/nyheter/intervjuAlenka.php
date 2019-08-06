@@ -30,7 +30,7 @@
                     <p>Jeg lærer noe nytt hver dag, og erfaringene fra sommerprosjektet i fjor samt prosjektet i faget nanoverktøy kommer godt med denne sommeren. Arbeidet på labben er fjernt fra det jeg driver med resten av studiet, men det er veldig fint å få litt bredde, og det kommer trolig godt med senere.</p>
                 </div>
             </div>
-            <?php include('../footer.php');?>
+            <?php include('../footer_studentprosjekter.php');?>
         </div>
     </body>
 </html>
