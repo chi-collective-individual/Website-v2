@@ -29,7 +29,7 @@
                     <p>Jeg har ikke gjort så mye direkte forskningsarbeid selv, men jeg arbeider jo på labben. Der får jeg se hva de vitenskapelig ansatte gjør og hvilke arbeidsoppgaver som må gjøres. Prosjektet har gitt meg et godt innblikk i en forskers hverdag, og det er svært relevant for studiet mitt ettersom jeg har valgt retningen nanoelektronikk.</p>
                 </div>
             </div>
-            <?php include('footer_studentprosjekter.php'); ?>
+            <?php include('../footer_studentprosjekter.php'); ?>
         </div>
     </body>
 </html>

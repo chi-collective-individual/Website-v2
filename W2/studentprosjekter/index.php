@@ -24,7 +24,7 @@
             <!--Active project announcements-->
             <div class="bg-blue">
                 <h1>Annonser din idé</h1>
-                <p class="center-paragraph">Her publiseres nye prosjekter fortløpende. Send mail til en av studentassistentene (se <a href="./kontakt.html">kontakt</a>) der du beskriver ideén din og eventuelt hvem du ønsker å samarbeide med. </p>
+                <p class="center-paragraph">Her publiseres nye prosjekter fortløpende. Send mail til en av studentassistentene (se <a href="../kontakt.php">kontakt</a>) der du beskriver ideén din og eventuelt hvem du ønsker å samarbeide med. </p>
                 <div class="flex-container">
                         <a title="Utlysning QuSpin" href="./Utlysning_QuSpin.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Utlysning QuSpin</h3><p>Hvordan ivaretas kvinneandelen i fysikkutdannelser? Det kan virke som at det er
                             et stort frafall kvinner innenfor høyere nivå på fysikk, spesielt innenfor teoretisk fysikk. Vi ønsker å
@@ -43,8 +43,8 @@
             <div class="bg-smaragd">
             <h1 class="mt">Pågående prosjekter</h1>
             <div class="flex-container">
-               <p class="split-narrow">Alenka har jobbet som forskningsassistent for Justin Wells de siste somrene. Les mer om hennes arbeidsoppgaver og erfaringer.<br><a href="nyheter/intervjuAlenka.html" class="white-arrow">&rarr;</a></p>
-               <p class="split-narrow">Håvard fikk sommerjobb hos Justin Wells. Les hvilke erfaringer han tok med seg etter en sommer med forskningsprosjekt.<br><a href="nyheter/intervjuHavard.html" class="white-arrow">&rarr;</a></p>
+               <p class="split-narrow">Alenka har jobbet som forskningsassistent for Justin Wells de siste somrene. Les mer om hennes arbeidsoppgaver og erfaringer.<br><a href="../nyheter/intervjuAlenka.php" class="white-arrow">&rarr;</a></p>
+               <p class="split-narrow">Håvard fikk sommerjobb hos Justin Wells. Les hvilke erfaringer han tok med seg etter en sommer med forskningsprosjekt.<br><a href="../nyheter/intervjuHavard.php" class="white-arrow">&rarr;</a></p>
             </div>
             </div>
 
@@ -53,7 +53,7 @@
                 <h1 class="mt">Tidligere prosjekter</h1>
                 <p class="center-paragraph">Her kan du lese om tidligere prosjekter. </p>
                 <div class="flex-container">
-                    <a href="forskningsassistent/index.html" title="Forskningsassistent" class="two-split"><div class="hover-shadow"><h3>Forskningsassistent</h3><p>Ønsker du å bidra ved forskningsmiljøene på Institutt for fysikk? Lurer du på hvordan man bruker avansert teori i nyskapende forskning? Ved å være forskningsassistent ved Institutt for fysikk vil du arbeide med vitenskapelig ansatte i deres forskningsprosjekter. Dette gir deg muligheten til å bli med i et av Norges fremste forskningsmiljø lenge før du skal skrive prosjekt eller masteroppgave.</p></div></a>
+                    <a href="forskningsassistent/index.php" title="Forskningsassistent" class="two-split"><div class="hover-shadow"><h3>Forskningsassistent</h3><p>Ønsker du å bidra ved forskningsmiljøene på Institutt for fysikk? Lurer du på hvordan man bruker avansert teori i nyskapende forskning? Ved å være forskningsassistent ved Institutt for fysikk vil du arbeide med vitenskapelig ansatte i deres forskningsprosjekter. Dette gir deg muligheten til å bli med i et av Norges fremste forskningsmiljø lenge før du skal skrive prosjekt eller masteroppgave.</p></div></a>
     
                     <a href="forskningsprosjekter/index.html" title="Forskningsprosjekter" class="two-split mt"><div class="hover-shadow"><h3>Forskningsprosjekter</h3><p>Hvis du ønsker å prøve deg som forsker er dette perfekt for deg! Du får muligheten til å arbeide med ditt eget prosjekt. Prosjektene varierer mye, fra numerisk analyse til å reprodusere eksperimentelle forsøk. Dette er en ypperlig måte å bruke og videreutvikle kunnskapen du lærer i emnene på instituttet. Det er også en super forberedelse til prosjekt- og masteroppgave.</p></div></a>
     
