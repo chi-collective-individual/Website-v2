@@ -66,6 +66,10 @@ lh img{
     padding: 20px 10px;
     font-size: 20px;
 }
+.three-split{
+    max-width: 33%;
+    padding: 20px 10px;
+}
 
 .center{
     text-align: center;
@@ -85,7 +89,7 @@ lh img{
     margin-top: 100px;
 }
 .bg-blue{
-    background-color: #9ba7b4;
+    background-color: #e5f9ff;
 }
 .bg-smaragd{
     background-color: #066;
@@ -123,5 +127,19 @@ lh img{
     color: white;
 }
 .border-smaragd{
-    border: 1px solid #066;
+    border: 1.5px solid #066;
+    border-radius: 10px;
+}
+.small-font{
+    font-size: 18px;
+}
+.bg-smaragd-medium{
+    background-color: rgba(0, 102, 102, 0.7);
+    color: white;
+}
+.bg-smaragd-soft{
+    background-color: rgba(0, 102, 102, 0.3);
+}
+.small-padding{
+    padding: 8px;
 }
