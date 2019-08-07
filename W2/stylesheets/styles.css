@@ -85,9 +85,12 @@ lh img{
     margin-top: 100px;
 }
 .bg-blue{
-    background-color: #e6f2ff;
+    background-color: #9ba7b4;
 }
-
+.bg-smaragd{
+    background-color: #066;
+    color: white;
+}
 .hover-shadow:hover{
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
 }
@@ -101,10 +104,6 @@ lh img{
     padding: 10px;
 }
 
-.bg-smaragd{
-    background-color: #006666;
-    color: white;
-}
 .white-arrow{
     color: white;
     font-size: 35px;
@@ -122,4 +121,7 @@ lh img{
 .footer a{
     text-decoration: underline;
     color: white;
+}
+.border-smaragd{
+    border: 1px solid #066;
 }

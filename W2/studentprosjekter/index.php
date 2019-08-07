@@ -5,11 +5,10 @@
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="../stylesheets/styles.css">
-        <link rel="stylesheet" href=""> 
-        <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet"><!--stylesheet for font family here-->
-        <script src="scripts/slideshow.js" defer></script>
+        <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet">
 
         <title>Students as Partners</title>
+
     </head>
     <body>
         <!--container for the header that is in all pages-->
@@ -66,16 +65,26 @@
 
             <!--Useful pages-->
             <div class="flex-container">
-                <h2 class="mt">Eksterne sider med mye informasjon, tips og nettverk som arbeider for å gjøre det enklere å drive innovativ utvikling på NTNU.</h2>
-            <a title="NTNU TTO" href="https://www.ntnutto.no/"><div class="flex-items"><b>NTNU TTO</b><br>NTNU Technology Transfer AS jobber med å skape verdier av forskningsresultater og gode ideer fra NTNU og Helse Midt-Norge. Målet er at disse skal nå markedet i form av samfunnsnyttige produkter eller tjenester. De kan bistå med kommersialisering av dine ideer og et godt nettverk som er nyttig i utviklingen av ditt produkt.</div></a>
-            <a title="Spark* NTNU" href="https://www.sparkntnu.no/"><div class="flex-items"><b>Spark* NTNU</b><br>Spark* NTNU er stedet for å få gode råd og veiledning i hvordan du skal realisere din innovative ide eller oppfinnelse. Spark* er en organisasjon som består av studenter som har har vært gründere selv, eller har studert ved Entreprenørskolen ved NTNU.</div></a>
-            <a title="FRAM NTNU" href="https://www.framntnu.no/"><div class="flex-items"><b>FRAM NTNU</b><br>FRAM NTNU er et innovasjonssenter i 3.etasje ved Gamle Fysikk. De har som mål å samle de innovative studentorganisasjonene tilknytta NTNU, og holder workshops, møter og andre arrangementer. Hvis du leter etter et sted for inspirasjon og gode diskusjoner er dette et fint sted å starte.</div></a>
-            <a title="Entreprenørskolen" href="https://entreprenorskolen.no/"><div class="flex-items"><b>Entrepenørskolen</b><br>NTNUs Entreprenørskole er et toårig masterprogram innen entreprenørskap. Studiet kombinerer faglig fordypning innen strategi, økonomi og forretningsutvikling med praktisk  erfaring som gründer i egen bedrift. Målet er å utdanne verdens beste forretningsutviklere.</div></a>
-            <a title="Start NTNU" href="https://startntnu.no/"><div class="flex-items"><b>Start NTNU</b><br>Start NTNU sitt formål er å inspirere og engasjere studenter til å utforske mulighetene innenfor innovasjon og entreprenørskap. Dette gjør de gjennom å invitere til forskjellige arrangement hvor man tar for seg sentrale problemstillinger innenfor tematikkområdene.</div></a>
-            <a title="Engage" href="https://engage-centre.no"><div class="flex-items"><b>Engage</b><br>Engage jobber for å bedre hvordan entrepenørksap undervises i høyere utdanning. De samarbeider tett med noen av de fremste entrepenørmiljøene i Norge, og inviterer gjevnlig til workshops der du kan utfordre deg selv og dine evner som entrepenør.</div></a>
-            <a title="Innsida" href="https://innsida.ntnu.no/grunder"><div class="flex-items"><b>Innsida</b><br>Innsida har en egen side med nyttig informasjon og linker til gründermiljøer i Trondheim. Denne siden kan brukes for å finne informasjon om andre miljøer og nyttige sider som ikke står på denne siden.</div></a>
-            <a title="Trondheim Tech" href="https://www.trondheimtech.no/"><div class="flex-items"><b>Trondheim Tech</b><br>TrondheimTech er en nyhetsblogg med oppdateringer fra teknologi- og entreprenørskapsmiljøet i Trondheim. På nettsiden samler de innhold fra de beste og mest relevante digitale kildene.</div></a>
-            <a title="Visma" href="https://www.visma.no/sma-bedrifter/starte-bedrift/"><div class="flex-items"><b>Visma</b><br>Visma er en leverandør av programvare, outsourcingstjenester, innkjøpsløsninger, innfordringstjenester, butikkdataløsninger, samt IT-relatert utviklings- og konsulentvirksomhet. De har en egen side om hvordan man skal starte en bedrift, og hva som er viktig å tenke på.</div></a>
+                <h1 class="mt">Videre lesing</h1>
+                <p class="center-paragraph">Eksterne sider med mye informasjon, tips og nettverk som arbeider for å gjøre det enklere å drive innovativ utvikling på NTNU.</p>
+
+                <a title="NTNU TTO" href="https://www.ntnutto.no/" class="two-split"><div class="flex-items border-smaragd"><h3>NTNU TTO</h3>NTNU Technology Transfer AS jobber med å skape verdier av forskningsresultater og gode ideer fra NTNU og Helse Midt-Norge. Målet er at disse skal nå markedet i form av samfunnsnyttige produkter eller tjenester. De kan bistå med kommersialisering av dine ideer og et godt nettverk som er nyttig i utviklingen av ditt produkt.</div></a>
+
+                <a title="Spark* NTNU" href="https://www.sparkntnu.no/" class="two-split"><div class="flex-items border-smaragd"><h3>Spark* NTNU</h3>Spark* NTNU er stedet for å få gode råd og veiledning i hvordan du skal realisere din innovative ide eller oppfinnelse. Spark* er en organisasjon som består av studenter som har har vært gründere selv, eller har studert ved Entreprenørskolen ved NTNU.</div></a>
+
+                <a title="FRAM NTNU" href="https://www.framntnu.no/" class="two-split"><div class="flex-items border-smaragd"><h3>FRAM NTNU</h3>FRAM NTNU er et innovasjonssenter i 3.etasje ved Gamle Fysikk. De har som mål å samle de innovative studentorganisasjonene tilknytta NTNU, og holder workshops, møter og andre arrangementer. Hvis du leter etter et sted for inspirasjon og gode diskusjoner er dette et fint sted å starte.</div></a>
+
+                <a title="Entreprenørskolen" href="https://entreprenorskolen.no/" class="two-split"><div class="flex-items border-smaragd"><h3>Entrepenørskolen</h3>NTNUs Entreprenørskole er et toårig masterprogram innen entreprenørskap. Studiet kombinerer faglig fordypning innen strategi, økonomi og forretningsutvikling med praktisk  erfaring som gründer i egen bedrift. Målet er å utdanne verdens beste forretningsutviklere.</div></a>
+
+                <a title="Start NTNU" href="https://startntnu.no/" class="two-split"><div class="flex-items border-smaragd"><h3>Start NTNU</h3>Start NTNU sitt formål er å inspirere og engasjere studenter til å utforske mulighetene innenfor innovasjon og entreprenørskap. Dette gjør de gjennom å invitere til forskjellige arrangement hvor man tar for seg sentrale problemstillinger innenfor tematikkområdene.</div></a>
+
+                <a title="Engage" href="https://engage-centre.no" class="two-split"><div class="flex-items border-smaragd"><h3>Engage</h3>Engage jobber for å bedre hvordan entrepenørksap undervises i høyere utdanning. De samarbeider tett med noen av de fremste entrepenørmiljøene i Norge, og inviterer gjevnlig til workshops der du kan utfordre deg selv og dine evner som entrepenør.</div></a>
+
+                <a title="Innsida" href="https://innsida.ntnu.no/grunder" class="two-split"><div class="flex-items border-smaragd"><h3>Innsida</h3>Innsida har en egen side med nyttig informasjon og linker til gründermiljøer i Trondheim. Denne siden kan brukes for å finne informasjon om andre miljøer og nyttige sider som ikke står på denne siden.</div></a>
+
+                <a title="Trondheim Tech" href="https://www.trondheimtech.no/" class="two-split"><div class="flex-items border-smaragd"><h3>Trondheim Tech</h3>TrondheimTech er en nyhetsblogg med oppdateringer fra teknologi- og entreprenørskapsmiljøet i Trondheim. På nettsiden samler de innhold fra de beste og mest relevante digitale kildene.</div></a>
+
+                <a title="Visma" href="https://www.visma.no/sma-bedrifter/starte-bedrift/" class="two-split"><div class="flex-items border-smaragd"><h3>Visma</h3>Visma er en leverandør av programvare, outsourcingstjenester, innkjøpsløsninger, innfordringstjenester, butikkdataløsninger, samt IT-relatert utviklings- og konsulentvirksomhet. De har en egen side om hvordan man skal starte en bedrift, og hva som er viktig å tenke på.</div></a>
         </div>
 
         <div class="flex-container"><!--Tips to external projects, eg. Blank, Equinor, NAROM and more-->
