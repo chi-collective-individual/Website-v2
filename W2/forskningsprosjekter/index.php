@@ -17,7 +17,7 @@
 
 
         <div class="indent">
-            <img src="../images/facultyFocus.jpg">
+            <img src="../images/Lab070819.jpg">
 
             <!--Information about SaP-->
             <h1>Forskningsprosjekter</h1>
@@ -40,7 +40,7 @@
             <div class="bg-smaragd">
             <h1 class="mt">Pågående prosjekter</h1>
             <div class="flex-container">
-               <p class="split-narrow">Alenka har jobbet som forskningsassistent for Justin Wells de siste somrene. Les mer om hennes arbeidsoppgaver og erfaringer.<br><a href="nyheter/intervjuAlenka.html" class="white-arrow">&rarr;</a></p>
+
                <p class="split-narrow">Håvard fikk sommerjobb hos Justin Wells. Les hvilke erfaringer han tok med seg etter en sommer med forskningsprosjekt.<br><a href="nyheter/intervjuHavard.html" class="white-arrow">&rarr;</a></p>
             </div>
             </div>
@@ -48,15 +48,11 @@
             <!--Past/outdated project announcements-->
             <div class="bg-blue">
                 <h1 class="mt">Tidligere prosjekter</h1>
-                <p class="center-paragraph">Her kan du lese om tidligere forskningsprosjekter. Disse er ikke lenger mulige å søke på. </p>
+                <p class="center-paragraph">Her kan du lese om tidligere forskningsprosjekter.</p>
                 <div class="flex-container">
-                    <a href="forskningsassistent/index.html" title="Forskningsassistent" class="two-split"><div class="hover-shadow"><h3>Forskningsassistent</h3><p>Ønsker du å bidra ved forskningsmiljøene på Institutt for fysikk? Lurer du på hvordan man bruker avansert teori i nyskapende forskning? Ved å være forskningsassistent ved Institutt for fysikk vil du arbeide med vitenskapelig ansatte i deres forskningsprosjekter. Dette gir deg muligheten til å bli med i et av Norges fremste forskningsmiljø lenge før du skal skrive prosjekt eller masteroppgave.</p></div></a>
-    
-                    <a href="forskningsprosjekter/index.html" title="Forskningsprosjekter" class="two-split mt"><div class="hover-shadow"><h3>Forskningsprosjekter</h3><p>Hvis du ønsker å prøve deg som forsker er dette perfekt for deg! Du får muligheten til å arbeide med ditt eget prosjekt. Prosjektene varierer mye, fra numerisk analyse til å reprodusere eksperimentelle forsøk. Dette er en ypperlig måte å bruke og videreutvikle kunnskapen du lærer i emnene på instituttet. Det er også en super forberedelse til prosjekt- og masteroppgave.</p></div></a>
-    
-                    <a href="emneutvikler/index.html" title="Emneutvikler" class="two-split"><div class="hover-shadow"><h3>Emneutvikler</h3><p>Vil du bidra til å utvikle læringsressurser for kommende studentkull? Ønsker du å få mer kunnskap om god pedagogisk praksis og å videreutvikle undervisningen av fysikk? I Students as Partners (SaP) prosjektet er vi interesserte i å komme i kontakt med studenter som kan tenke seg å bidra til å utvikle morgendagens emner og undervisningen av disse. Du vil samarbeide med faglærere og ressurspersoner innen SaP-prosjektet, som alle jobber mot det samme målet: god undervisning.</p></div></a>
-    
-                    <a href="studentprosjekter/index.html" title="Studentprosjekter" class="two-split mt"><div class="hover-shadow"><h3>Studentprosjekter</h3><p>Brenner du inne med en idé du ønsker å realisere? Vil du samarbeide med andre studenter og anvende dine praktiske og analytiske ferdigheter? Her finner du tidligere prosjekter, nåværende prosjekter og eksterne prosjekter.</p></div></a>
+                    <!--"mal" for hvilke klasser som trengs for å legge inn tidligere prosjektutlysninger:
+                       <a href="link til PDF" title="" class="two-split"><div class="hover-shadow"><h3></h3><p>Kort prosjektbeskrivelse</p></div></a>
+                    -->
                 </div>
             </div>
 

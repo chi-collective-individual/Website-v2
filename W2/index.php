@@ -15,7 +15,7 @@
         <?php include("menuFrontPage.php"); ?>
 
         <div class="indent">
-            <img src="images/facultyFocus.jpg">
+            <img src="images/sapLabFront.jpg">
 
             <!--Information about SaP-->
             <h1>Students as Partners</h1><p class="center">Ønsker du å samarbeide med et av Norges fremste forskningsmiljøer? Her vil ansatte på Institutt for fysikk legge ut prosjekter for studenter fra alle årskull. Vil du utvikle dine egne idéer, eller bidra i et av de mange studentprosjektene på NTNU? Vi hjelper deg å ta steget!</p>
@@ -38,8 +38,8 @@
             <div class="bg-smaragd">
                 <h1 class="mt">Nyheter</h1>
                 <div class="flex-container">
+                    <p class="split-narrow">Rasmus Tranås var med å utvikle de numeriske øvingene i mekanisk fysikk sommmeren 2019. Les om hans sommer ved Institutt for fysikk.<br><a href="nyheter/intervjuRasmus.php" class="white-arrow">&rarr;</a></p>
                     <p class="split-narrow">Alenka har jobbet som forskningsassistent for Justin Wells de siste somrene. Les mer om hennes arbeidsoppgaver og erfaringer.<br><a href="nyheter/intervjuAlenka.php" class="white-arrow">&rarr;</a></p>
-                    <p class="split-narrow">Håvard fikk sommerjobb hos Justin Wells. Les hvilke erfaringer han tok med seg etter en sommer med forskningsprosjekt.<br><a href="nyheter/intervjuHavard.php" class="white-arrow">&rarr;</a></p>
                 </div>
             </div>
             <!--Information about SaP in english-->

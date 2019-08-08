@@ -32,11 +32,10 @@
             
             <!--Read about ongoing projects, keep this down to two or three-->
             <div class="bg-smaragd">
-            <h1 class="mt">Pågående prosjekter</h1>
-            <div class="flex-container">
-               <p class="split-narrow">Alenka har jobbet som forskningsassistent for Justin Wells de siste somrene. Les mer om hennes arbeidsoppgaver og erfaringer.<br><a href="nyheter/intervjuAlenka.html" class="white-arrow">&rarr;</a></p>
-               <p class="split-narrow">Håvard fikk sommerjobb hos Justin Wells. Les hvilke erfaringer han tok med seg etter en sommer med forskningsprosjekt.<br><a href="nyheter/intervjuHavard.html" class="white-arrow">&rarr;</a></p>
-            </div>
+                <h1 class="mt">Pågående prosjekter</h1>
+                <div class="flex-container">
+                    <p class="split-narrow">Alenka har jobbet som forskningsassistent for Justin Wells de siste somrene. Les mer om hennes arbeidsoppgaver og erfaringer.<br><a href="nyheter/intervjuAlenka.html" class="white-arrow">&rarr;</a></p>
+                </div>
             </div>
 
             <!--Past/outdated project announcements-->

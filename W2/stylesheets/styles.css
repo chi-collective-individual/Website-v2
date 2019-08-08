@@ -88,6 +88,12 @@ lh img{
 .mt{
     margin-top: 100px;
 }
+.pt{
+    padding-top: 200px;
+}
+.pt-medium{
+    padding-top: 100px;
+}
 .bg-blue{
     background-color: #e5f9ff;
 }

@@ -17,7 +17,7 @@
 
 
         <div class="indent">
-            <h1 style="padding-top: 100px;">Intervju med forskningsassistent Alenka</h1>
+            <h1 class="pt-medium">Intervju med forskningsassistent Alenka</h1>
 
             <p class="center-paragraph">Alenka jobber som forskningsassistent denne sommeren under veileder Justin Wells, som hører til forskningsgruppen QuSpin.</p>
             <div class="flex-container">
