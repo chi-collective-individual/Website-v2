@@ -1,16 +1,20 @@
+/*Set margin and padding to default zero in order to fill the whole page. Set font type*/
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Raleway';
 }
+/*Set max-width to not get a too wide page on big screens*/
 body{
     max-width: 1500px;
 }
+/*default normal text in hyperlinks*/
 a{
     text-decoration: none;
     color: black;
 }
+/*center headers*/
 h1{
     text-align: center;
     padding-top: 20px;
@@ -18,6 +22,7 @@ h1{
 h2 {
     text-align: center;
 }
+/*left aligned menu*/
 lh img{
     width: 250px;
     padding: 50px 25px 20px 25px;
@@ -29,7 +34,6 @@ lh img{
     position: fixed;
     z-index: 1;
 }
-
 .menu li{
     color: black;
     opacity: 0.8;
@@ -42,6 +46,11 @@ lh img{
     background-color: rgba(0,0,0, 0.1);
 }
 
+
+
+/*-----------Main content-------------*/
+
+
 .indent{
     margin-left: 300px;
     max-width: 100%;
@@ -53,6 +62,7 @@ lh img{
     overflow: hidden;
 }
 
+/*-------Container and childs for responsible design---------*/
 .flex-container{
     display: flex;
     flex-flow: row wrap;
@@ -60,16 +70,26 @@ lh img{
     align-content: center;
     justify-content: center;
 }
-
 .two-split{
     max-width: 50%;
     padding: 20px 10px;
     font-size: 20px;
+    /*min-width: 200px; will make the main content responsible*/
 }
+
 .three-split{
     max-width: 33%;
     padding: 20px 10px;
 }
+
+.split-narrow{
+    max-width: 40%;
+    font-size: 18px;
+    padding: 10px;
+}
+
+/*------------Formatting-----------*/
+
 
 .center{
     text-align: center;
@@ -85,6 +105,13 @@ lh img{
     font-size: 22px;
     margin-bottom: 40px;
 }
+
+.small-font{
+    font-size: 18px;
+}
+
+/*Spacing and gaps for text and containers*/
+
 .mt{
     margin-top: 100px;
 }
@@ -94,6 +121,11 @@ lh img{
 .pt-medium{
     padding-top: 100px;
 }
+.small-padding{
+    padding: 8px;
+}
+/*colors*/
+
 .bg-blue{
     background-color: #e5f9ff;
 }
@@ -101,23 +133,34 @@ lh img{
     background-color: #066;
     color: white;
 }
+.border-smaragd{
+    border: 1.5px solid #066;
+    border-radius: 10px;
+}
+.bg-smaragd-medium{
+    background-color: rgba(0, 102, 102, 0.7);
+    color: white;
+}
+.bg-smaragd-soft{
+    background-color: rgba(0, 102, 102, 0.3);
+}
+
+/*Effect when holding over an element*/
 .hover-shadow:hover{
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
 }
-.flex-container h3{
+
+.flex-container h3{ /*Should be moved or replaced*/
     text-align: center;
     margin-bottom: 5px;
-}
-.split-narrow{
-    max-width: 40%;
-    font-size: 18px;
-    padding: 10px;
 }
 
 .white-arrow{
     color: white;
     font-size: 35px;
 }
+
+/*Footer*/
 .footer-paragraph{
     text-align: center;
     padding: 20px;
@@ -132,23 +175,7 @@ lh img{
     text-decoration: underline;
     color: white;
 }
-.border-smaragd{
-    border: 1.5px solid #066;
-    border-radius: 10px;
-}
-.small-font{
-    font-size: 18px;
-}
-.bg-smaragd-medium{
-    background-color: rgba(0, 102, 102, 0.7);
-    color: white;
-}
-.bg-smaragd-soft{
-    background-color: rgba(0, 102, 102, 0.3);
-}
-.small-padding{
-    padding: 8px;
-}
+
 /*Text box for photo, in order to give photo credit*/
 .text-block {
     position: absolute;
