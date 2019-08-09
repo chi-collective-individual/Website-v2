@@ -9,7 +9,7 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet"><!--stylesheet for font family here-->
         <script src="scripts/slideshow.js" defer></script>
 
-        <title>Students as Partners</title>
+        <title>SaP - Emneutvikler</title>
     </head>
     <body>
     <!--Menu-->
@@ -28,6 +28,9 @@
                 <p class="center-paragraph">Her publiseres nye prosjekter fortløpende.</p>
                 <div class="flex-container">
 
+                    <!--Mal: 
+                    <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p></p></div></a>
+                    -->
 
                 </div>
             </div>
@@ -36,7 +39,10 @@
             <div class="bg-smaragd">
                 <h1 class="mt">Pågående prosjekter</h1>
                 <div class="flex-container">
-                <p class="split-narrow">Rasmus Tranås var med å utvikle de numeriske øvingene i mekanisk fysikk sommmeren 2019. Les om hans sommer ved Institutt for fysikk.<br><a href="nyheter/intervjuRasmus.php" class="white-arrow">&rarr;</a></p>
+                    <!--Mal:
+                    <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
+                    -->
+                    <p class="split-narrow">Rasmus Tranås var med å utvikle de numeriske øvingene i mekanisk fysikk sommmeren 2019. Les om hans sommer ved Institutt for fysikk.<br><a href="nyheter/intervjuRasmus.php" class="white-arrow">&rarr;</a></p>
                 </div>
             </div>
 
