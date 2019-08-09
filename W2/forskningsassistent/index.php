@@ -15,8 +15,10 @@
         <?php include("../menu.php"); ?>
 
         <div class="indent">
-            <img src="../images/facultyFocus.jpg">
-
+            <div class="container">
+                <img src="../images/Geir Mogen2.jpeg">
+                <p class="text-block">Foto: Geir Mogen</p>
+            </div>
             <!--Information about SaP-->
             <h1>Forskningsassistent</h1>
             <p class="center-paragraph">Lurer du på hvordan man bruker avansert teori i nyskapende forskning? Ved å være forskningsassistent ved Institutt for fysikk vil du arbeide med vitenskapelig ansatte i deres forskningsprosjekter. Dette gir deg muligheten til å bli med i et av Norges fremste forskningsmiljø lenge før du skal skrive prosjekt eller masteroppgave. </p>

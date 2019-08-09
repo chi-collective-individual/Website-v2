@@ -149,3 +149,16 @@ lh img{
 .small-padding{
     padding: 8px;
 }
+/*Text box for photo, in order to give photo credit*/
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+.container {
+    position:relative;
+}
