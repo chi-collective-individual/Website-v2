@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="../stylesheets/styles.css">
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet">
 
-        <title>Students as Partners</title>
+        <title>SaP - Studentprosjekter</title>
 
     </head>
     <body>
@@ -26,8 +26,8 @@
                 <h1>Annonser din idé</h1>
                 <p class="center-paragraph">Her publiseres nye studentprosjekter fortløpende. Send mail til en av studentassistentene (se <a href="../kontakt.php">kontakt</a>) der du beskriver ideén din og eventuelt hvem du ønsker å samarbeide med. </p>
                 <div class="flex-container">
-                    <!--"mal" for hvilke klasser som trengs:
-                        <a href="link til PDF" title="" class="two-split"><div class="hover-shadow"><h3></h3><p>Kort prosjektbeskrivelse</p></div></a>
+                    <!--Mal:
+                        <a href="..." title="" class="two-split"><div class="hover-shadow"><h3></h3><p>...</p></div></a>
                     -->
                 </div>
             </div>
@@ -36,7 +36,11 @@
             <div class="bg-smaragd">
                 <h1 class="mt">Pågående studentprosjekter</h1>
                 <div class="flex-container">
-                    <!--Mal: <p class="split-narrow">....<br><a href="../nyheter/artikkelnavn.php" class="white-arrow">&rarr;</a></p>-->
+
+                    <!--Mal: 
+                    <p class="split-narrow">....<br><a href="../nyheter/***.php" class="white-arrow">&rarr;</a></p>
+                    -->
+
                     <p class="split-narrow">Revolve NTNU er en uavhengig studentorganisasjon som utvikler Formel 1 biler.<br><a href="https://www.revolve.no/" class="white-arrow">&rarr;</a></p>
                     <p class="split-narrow">Orbit NTNU er en uavhengig studentorganisasjon som lager den første satelitten produsert av studenter i Norge.<br><a href="https://www.orbitntnu.com/" class="white-arrow">&rarr;</a></p>
                 </div>
@@ -46,9 +50,9 @@
             <div class="bg-blue">
                 <h1 class="mt">Tidligere prosjekter</h1>
                 <p class="center-paragraph">Her kan du lese om tidligere prosjekter. </p>
-                <div class="flex-container">
-                    <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3></p></div></a>
-                </div>
+                    <!--Mal:
+                       <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p>...</p></div></a>
+                    -->
             </div>
 
             <!--Useful pages-->
@@ -79,7 +83,13 @@
             <div class="bg-blue">
                 <h1 class="mt">Eksterne prosjekter</h1><p class="center-paragraph">Det finnes mange bedrifter som har egne prosjekter åpne for studenter og andre interesserte. Dette kan være en god mulighet for å komme i kontakt med bedrifter og teste innovasjon og entrepenørskap. Dette er bare en oversikt over noen eksterne prosjekter som vi har funnet. Det finnes garantert flere som vi ikke har funnet. Hvis du har tips til noen som bør inkluderes i oversikten gi oss gjerne beskjed.</p>
 
+
                 <div class="flex-container">
+
+                    <!--Mal:
+                        <div class="flex-items three-split small-font"><h3></h3><p>...<a href="" title=""></a></p></div>
+                    -->
+                    
                     <div class="flex-items three-split small-font"><h3>Blank</h3><p>Blanks sommerstipend deles ut til to designstudenter og to teknologistudenter hvert år. Man skal arbeide med sitt eget prosjekt og får hjelp fra Blank og deres medarbeidere ved behov. <a href="https://www.blank.no/sommerstipend" title="Blank sommerstipend">Les mer</a></p></div>
 
                     <div class="flex-items three-split small-font"><h3>Equinor</h3><p>Equinor har i tillegg til studentarrangementer, stands, internships og sommerjobber noe de kaller Equinor Innovate. Her publiserer de utfordringer som man kan prøve å løse best mulig. <a href="https://www.equinor.com/en/how-and-why/innovate.html" title="Equinor Innovate">Les mer</a></p></div>
