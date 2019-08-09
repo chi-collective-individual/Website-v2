@@ -36,8 +36,7 @@
             <div class="bg-smaragd">
                 <h1 class="mt">Pågående prosjekter</h1>
                 <div class="flex-container">
-                    <p class="split-narrow">Alenka har jobbet som forskningsassistent for Justin Wells de siste somrene. Les mer om hennes arbeidsoppgaver og erfaringer.<br><a href="nyheter/intervjuAlenka.html" class="white-arrow">&rarr;</a></p>
-                    <p class="split-narrow">Håvard fikk sommerjobb hos Justin Wells. Les hvilke erfaringer han tok med seg etter en sommer med forskningsprosjekt.<br><a href="nyheter/intervjuHavard.html" class="white-arrow">&rarr;</a></p>
+                <p class="split-narrow">Rasmus Tranås var med å utvikle de numeriske øvingene i mekanisk fysikk sommmeren 2019. Les om hans sommer ved Institutt for fysikk.<br><a href="nyheter/intervjuRasmus.php" class="white-arrow">&rarr;</a></p>
                 </div>
             </div>
 
@@ -47,7 +46,7 @@
                 <p class="center-paragraph">Her kan du lese om tidligere utlysninger. Disse er ikke lenger mulige å søke på, men gir deg en pekepinn på hva som kan utlyses og hvordan utlysningene ser ut. </p>
                 <div class="flex-container">
                 <!--Mal: <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p></p></div></a>-->
-                    <a href="Sommerjobb_IFY_2019.pdf" title="Sommerjobb IFY" class="two-split"><div class="hover-shadow"><h3>Emneutvikler IFY</h3><p>Er du interessert i en sommerjobb ved IFY? Institutt for fysikk søker studenter med interesse for programmering og numerisk fysikk til sommerjobb. Arbeidet omfatter utvikling av læringsmateriell i forbindelse med økt fokus på numerisk beregninger i grunnkursene i fysikk.</p></div></a>
+                    <a href="Sommerjobb ved Institutt for fysikk 2019.pdf" title="Sommerjobb IFY" class="two-split"><div class="hover-shadow"><h3>Emneutvikler IFY</h3><p>Er du interessert i en sommerjobb ved IFY? Institutt for fysikk søker studenter med interesse for programmering og numerisk fysikk til sommerjobb. Arbeidet omfatter utvikling av læringsmateriell i forbindelse med økt fokus på numerisk beregninger i grunnkursene i fysikk.</p></div></a>
 
                 </div>
             </div>
