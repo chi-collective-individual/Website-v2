@@ -31,7 +31,7 @@
                     <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p>...</p></div></a>
                     -->
 
-                    <a href="./Project announcement august QuSpin.pdf" title="Forskningsassistent" class="two-split" target="_BLANK"><div class="hover-shadow"><h3>Project announcement QuSpin</h3><p> Contributing to the maintenance, development/upgrading and testing of the research laboratories. Typical tasks would include interfacing instruments to a web-based platform, servicing vacuum pumps, testing and upgrading XPS, UPS and LEED instruments... Read more.</p></div></a>
+                    <a href="./Project announcement august QuSpin.pdf" title="Forskningsassistent" class="two-split" target="_blank"><div class="hover-shadow"><h3>Project announcement QuSpin</h3><p> Contributing to the maintenance, development/upgrading and testing of the research laboratories. Typical tasks would include interfacing instruments to a web-based platform, servicing vacuum pumps, testing and upgrading XPS, UPS and LEED instruments... Read more.</p></div></a>
                 </div>
             </div>
             
