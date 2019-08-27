@@ -16,7 +16,7 @@
     <?php include("../menu.php"); ?> 
       
         <div class="indent">
-            <img src="../images/facultyFocus.jpg">
+            <img src="../images/emneutvikler_cellebio4.jpg">
 
             <!--Information about emneutvikler-->
             <h1>Emneutvikler</h1>
@@ -31,9 +31,10 @@
                     <!--Mal: 
                     <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p></p></div></a>
                     -->
-                    <a title="Utlysning kvantefysikk" href="./Studentprosjekt_TFY4215.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Utlysning kvantefysikk</h3><p>Ingjald Øverbøs tlleggg regneøvinger og løsningsforslag i emnet TFY4215 Innføring i kvantefysikk representerer uvurderlige læringsressurser for studentene. Noe av dete kan kanskje bli enda bedre hvis det formuleres som Jupyter Notebooks?... Les mer</p></div></a>
+                    <a title="Utlysning kvantefysikk" href="./Studentprosjekt_TFY4215.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Utlysning kvantefysikk</h3><p>Ingjald Øverbøs tillegg, regneøvinger og løsningsforslag i emnet TFY4215 Innføring i kvantefysikk representerer uvurderlige læringsressurser for studentene. Noe av dete kan kanskje bli enda bedre hvis det formuleres som Jupyter Notebooks?... Les mer</p></div></a>
 
                     <a href="./TFY4163_demonstrasjoner.pdf" target="_blank" title="Demonstrasjoner i TFY4163" class="two-split mt"><div class="hover-shadow"><h3>Demonstrasjoner i TFY4163</h3><p>Våren 2020 starter ett nytt emne opp ved Institutt for fysikk: TFY4163 Bølgefysikk og fluidmekanikk. Innen bølgefysikk er det mange spennende fysiske fenomener med viktige teknologisk anvendelser som relativt enkelt kan realiseres med små fysiske oppsett... Les mer.</p></div></a>
+                    <a href="./versjonskontrollsystem.pdf" target="_blank" title="Versjonskontrollsystem" class="two-split mt"><div class="hover-shadow"><h3>Versjonskontroll</h3><p>For å effektivt samarbeide om programvareutvikling brukes det nesten alltid et såkalt versjonskontrollsystem. Et slikt system er Git, og dette er noe flere studenter vil komme borti senere i studiet eller i arbeidslivet. ... Les mer.</p></div></a>
                 </div>
             </div>
             
@@ -44,7 +45,7 @@
                     <!--Mal:
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     -->
-                    <p class="split-narrow">Rasmus Tranås var med å utvikle de numeriske øvingene i mekanisk fysikk sommmeren 2019. Les om hans sommer ved Institutt for fysikk.<br><a href="nyheter/intervjuRasmus.php" class="white-arrow">&rarr;</a></p>
+                    <p class="split-narrow">Rasmus Tranås var med å utvikle de numeriske øvingene i mekanisk fysikk sommmeren 2019. Les om hans sommer ved Institutt for fysikk.<br><a href="../nyheter/intervjuRasmus.php" class="white-arrow">&rarr;</a></p>
                 </div>
             </div>
 
