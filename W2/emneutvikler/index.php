@@ -31,7 +31,9 @@
                     <!--Mal: 
                     <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p></p></div></a>
                     -->
+                    <a title="Utlysning kvantefysikk" href="./Studentprosjekt_TFY4215.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Utlysning kvantefysikk</h3><p>Ingjald Øverbøs tlleggg regneøvinger og løsningsforslag i emnet TFY4215 Innføring i kvantefysikk representerer uvurderlige læringsressurser for studentene. Noe av dete kan kanskje bli enda bedre hvis det formuleres som Jupyter Notebooks?... Les mer</p></div></a>
 
+                    <a href="./TFY4163_demonstrasjoner.pdf" target="_blank" title="Demonstrasjoner i TFY4163" class="two-split mt"><div class="hover-shadow"><h3>Demonstrasjoner i TFY4163</h3><p>Våren 2020 starter ett nytt emne opp ved Institutt for fysikk: TFY4163 Bølgefysikk og fluidmekanikk. Innen bølgefysikk er det mange spennende fysiske fenomener med viktige teknologisk anvendelser som relativt enkelt kan realiseres med små fysiske oppsett... Les mer.</p></div></a>
                 </div>
             </div>
             
