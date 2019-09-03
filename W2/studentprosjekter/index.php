@@ -29,7 +29,7 @@
                     <!--Mal:
                         <a href="..." title="" class="two-split"><div class="hover-shadow"><h3></h3><p>...</p></div></a>
                     -->
-                    <a href="./kvantemekanikk_studentprosjekt.pdf" title="Forstå kvantemekanikk" class="two-split"><div class="hover-shadow"><h3>Forstå kvantemekanikk</h3><p>Spørsmål om hva målinger er, og virkeligheten til bølgefunksjonen blir ofte møtt med tankegangen "hold kjeft og regn". Jeg mener dette er unødvendig siden det finnes mange interessante tankeeksperimenter som belyser hva kvantemekanikken sier. For eksempel setter Bell-eksperimentet og EPR-paradokset begrensninger... Les mer. </p></div></a>
+                    <a href="./kvantemekanikk_studentprosjekt.pdf" title="Forstå kvantemekanikk" target="_blank" class="two-split"><div class="hover-shadow"><h3>Forstå kvantemekanikk</h3><p>Spørsmål om hva målinger er, og virkeligheten til bølgefunksjonen blir ofte møtt med tankegangen "hold kjeft og regn". Jeg mener dette er unødvendig siden det finnes mange interessante tankeeksperimenter som belyser hva kvantemekanikken sier. For eksempel setter Bell-eksperimentet og EPR-paradokset begrensninger... Les mer. </p></div></a>
                 </div>
             </div>
             
