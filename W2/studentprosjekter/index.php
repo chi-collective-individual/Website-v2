@@ -3,6 +3,15 @@
     
                 
     <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-147425276-1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-147425276-1');
+        </script>
+        <!--Tag ends-->
         <meta charset="UTF-8">
         <link rel="stylesheet" href="../stylesheets/styles.css">
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet">
