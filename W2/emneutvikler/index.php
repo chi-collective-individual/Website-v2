@@ -53,8 +53,8 @@
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     -->
                     <!--<p class="split-narrow">Rasmus Tranås var med å utvikle de numeriske øvingene i mekanisk fysikk sommmeren 2019. Les om hans sommer ved Institutt for fysikk.<br><a href="../nyheter/intervjuRasmus.php" class="white-arrow">&rarr;</a></p> -->
-                    <p class="split-narrow"><h3>Øvinger i kvantefysikk</h3>Ingjald Øverbøs tillegg, regneøvinger og løsningsforslag i emnet TFY4215 Innføring i kvantefysikk representerer uvurderlige læringsressurser for studentene. Noe av dete kan kanskje bli enda bedre hvis det formuleres som Jupyter Notebooks?... Les mer<br><a href="./Studentprosjekt_TFY4215.pdf" class="white-arrow">&rarr;</a></p>
-                    <p class="split-narrow"><h3>Demonstrasjoner i TFY4163</h3>Våren 2020 starter ett nytt emne opp ved Institutt for fysikk: TFY4163 Bølgefysikk og fluidmekanikk. Innen bølgefysikk er det mange spennende fysiske fenomener med viktige teknologisk anvendelser som relativt enkelt kan realiseres med små fysiske oppsett... Les mer<br><a href="./TFY4163_demonstrasjoner.pdf" class="white-arrow">&rarr;</a></p>
+                    <p class="split-narrow">Ingjald Øverbøs tillegg, regneøvinger og løsningsforslag i emnet TFY4215 Innføring i kvantefysikk representerer uvurderlige læringsressurser for studentene... Les mer<br><a href="./Studentprosjekt_TFY4215.pdf" class="white-arrow">&rarr;</a></p>
+                    <p class="split-narrow">Våren 2020 starter ett nytt emne opp ved Institutt for fysikk: TFY4163 Bølgefysikk og fluidmekanikk. Innen bølgefysikk er det mange spennende fysiske fenomener... Les mer<br><a href="./TFY4163_demonstrasjoner.pdf" class="white-arrow">&rarr;</a></p>
                 </div>
             </div>
 
