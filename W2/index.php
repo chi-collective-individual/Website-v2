@@ -30,8 +30,10 @@
             <h1>Students as Partners</h1><p class="center">Ønsker du å samarbeide med et av Norges fremste forskningsmiljøer? Her vil ansatte på Institutt for fysikk legge ut prosjekter for studenter fra alle årskull. Vil du utvikle dine egne idéer, eller bidra i et av de mange studentprosjektene på NTNU? Vi hjelper deg å ta steget!</p>
             <!--Temporary announcement below. REMOVE after one studentassistent is hired-->
             <div class="bg-smaragd">
-                <p>Ønsker du å bli den nye koordinatoren/webutvikleren for SaP-nettsiden?<br><a href="./webutvikler_sap.pdf" target="_blank" class="white-arrow">&rarr;</a></p>    
+            <div class="flec-container">
+                <p class="split-narrow">Ønsker du å bli den nye koordinatoren/webutvikleren for SaP-nettsiden?<br><a href="./webutvikler_sap.pdf" target="_blank" class="white-arrow">&rarr;</a></p>    
             </div> 
+            </div>
             <!--Information about the different types of projects with link to their pages-->
             <div class="bg-blue">
                 <h1>Hva kan du jobbe med?</h1>
