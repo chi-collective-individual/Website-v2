@@ -60,9 +60,10 @@ lh img{
     width: 100%;
     height: auto;
     overflow: hidden;
+    /*min-width: 200px; Test. might have to remove this*/
 }
 
-/*-------Container and childs for responsible design---------*/
+/*-------Container and childs for responsive design---------*/
 .flex-container{
     display: flex;
     flex-flow: row wrap;
@@ -74,7 +75,7 @@ lh img{
     max-width: 50%;
     padding: 20px 10px;
     font-size: 20px;
-    /*min-width: 200px; will make the main content responsible*/
+    /*min-width: 200px; will make the main content responsive*/
 }
 
 .three-split{
@@ -157,6 +158,10 @@ lh img{
 
 .white-arrow{
     color: white;
+    font-size: 35px;
+}
+.black-arrow{
+    color: black;
     font-size: 35px;
 }
 
