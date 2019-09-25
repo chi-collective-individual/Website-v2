@@ -26,7 +26,7 @@
 
 
         <div class="indent">
-            <h1 class="pt-medium">Intervju med emneutvikler Rasmus Tranås</h1>
+            <h1 class="pt-medium" id="top-content">Intervju med emneutvikler Rasmus Tranås</h1>
             <p class="center-paragraph">Rasmus Tranås jobbet sommeren 2019 som emneutvikler på Institutt for fysikk.<br><br><b>Navn:</b> Rasmus Tranås<br><b>Studie:</b> Ferdig med Fysikk og matematikk, med spesialisering i teknisk fysikk.<br><b>Leder:</b> Magnus Lilledahl og Jakko Akola</p>
             <div class="flex-container">
                 <img src="../images/RasmusLab.jpg" class="two-split" style="height: 850px; margin: auto; min-width:500px;"> <!--min-width will stop weird image formats from occuring.-->
@@ -65,6 +65,8 @@
                     <p>Jeg har ikke gjort så mye direkte forskningsarbeid selv, men jeg arbeider jo på labben. Der får jeg se hva de vitenskapelig ansatte gjør og hvilke arbeidsoppgaver som må gjøres. Prosjektet har gitt meg et godt innblikk i en forskers hverdag, og det er svært relevant for studiet mitt ettersom jeg har valgt retningen nanoelektronikk.</p>
                 </div>
             </div>
+            <a href="#top-content"><img src="../images/up-arrow.PNG" style="display: block; margin-left: auto; margin-right: auto; width: 5%; margin-top:70px;"></a> 
+            <!--Footer-->
             <?php include("../footer_studentprosjekter.php"); ?>
         </div>
        
