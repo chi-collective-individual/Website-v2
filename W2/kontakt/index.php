@@ -34,7 +34,7 @@
                 <p class="split-narrow">Ønsker du å bli den nye koordinatoren/webutvikleren for SaP-nettsiden?<br><a href="../webutvikler_sap.pdf" target="_blank" class="black-arrow">&rarr;</a></p>
                 </div>
             </div>
-            <!--News, keep this down to two or three-->
+            <div class="footer">
             <div class="bg-smaragd">
                 <h1 class="mt">Studentassistenter</h1>
                 <div class="flex-container">
@@ -43,6 +43,7 @@
                     <!--  <p class="paragraph"><b>Øystein Fruseth Christiansen</b><br><b>Mail:</b><a href="mailto:oysteifc@stud.ntnu.no">oysteifc@stud.ntnu.no</a><br><b>Mobil: <b> +47 48198828 </p>
                     <p class="paragraph"><b>Øystein Fruseth Christiansen</b><br><b>Mail:</b><a href="mailto:oysteifc@stud.ntnu.no">oysteifc@stud.ntnu.no</a><br><b>Mobil: <b> +47 48198828 </p>-->
                 </div>
+            </div>
             </div>
             <!--Information about SaP in english-->
            
