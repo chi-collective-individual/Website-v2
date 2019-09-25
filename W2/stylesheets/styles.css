@@ -164,6 +164,11 @@ lh img{
     color: black;
     font-size: 35px;
 }
+.go-up-arrow {
+    color: black;
+    font-size: 35px;
+    text-align: center;
+}
 
 /*Footer*/
 .footer-paragraph{
