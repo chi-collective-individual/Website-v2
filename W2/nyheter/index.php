@@ -29,11 +29,7 @@
             <h1 class="pt-medium">Intervju med emneutvikler Rasmus Tranås</h1>
             <p class="center-paragraph">Rasmus Tranås jobbet sommeren 2019 som emneutvikler på Institutt for fysikk.<br><br><b>Navn:</b> Rasmus Tranås<br><b>Studie:</b> Ferdig med Fysikk og matematikk, med spesialisering i teknisk fysikk.<br><b>Leder:</b> Magnus Lilledahl og Jakko Akola</p>
             <div class="flex-container">
-<<<<<<< HEAD
-                <img src="../images/RasmusLab.jpg" alt="Picture can't load" class="two-split" style="height: 850px; margin: auto;">
-=======
                 <img src="../images/RasmusLab.jpg" class="two-split" style="height: 850px; margin: auto; min-width:500px;"> <!--min-width will stop weird image formats from occuring.-->
->>>>>>> 75a9db471cfd7c8e2d6a75493aeee1667c19afee
 
                 <div class="two-split">
                     <p>Dette er første sommeren jeg har jobbet som emneutvikler på instituttet. Det var en fin arbeidserfaring der jeg har jobbet med mye teknologi som jeg er glad i. Arbeidet har gått ut på å utvikle numeriske øvinger i mekanisk fysikk (FY1001) og lage en nettside der læringsressurser tilknyttet emnene på IFY kan samles.</p><br>
@@ -46,11 +42,7 @@
 
             <p class="center-paragraph">Alenka jobber som forskningsassistent denne sommeren under veileder Justin Wells, som hører til forskningsgruppen QuSpin.</p>
             <div class="flex-container">
-<<<<<<< HEAD
                 <img id="Img2" alt="Picture can't load" src="../images/alenka.jpg" class="two-split" style="height: 850px; margin: auto;"/>  
-=======
-                <img id="Img2" alt="Picture can't load" src="../images/alenka.jpg" class="two-split" style="min-width:500px;"/> <!--min-width heps format the image on diff. screen sizes-->  
->>>>>>> 75a9db471cfd7c8e2d6a75493aeee1667c19afee
 
                 <div class="two-split">
                     <p><b>Navn:</b> Alenka Djarmila Behsen<br><b>Studie:</b> Nanoteknologi, med spesialisering i bionanoteknologi. <br><b>Årskull:</b> Begynner i 5. klasse etter sommeren<br><b>Veileder:</b> Justin Wells på QuSpin</p><br>
@@ -65,7 +57,7 @@
 
             <p class="center-paragraph">Håvard jobber som forskningsassistent denne sommeren under veileder Justin Wells, som hører til forskningsgruppen QuSpin.</p>
             <div class="flex-container">
-                <img id="Img2" alt="Picture can't load" src="../images/havard.jpg" class="two-split" style="min-width:500px;">  <!--min-width helps format the image on diff. screen sizes-->
+                <img id="Img2" alt="Picture can't load" src="../images/havard.jpg" class="two-split" style="height: 850px; margin: auto;">  <!--min-width helps format the image on diff. screen sizes-->
 
                 <div class="two-split">
                     <p><b>Navn:</b> Håvard Bakke<br><b>Studie:</b> Nanoteknologi, med spesialisering i nanoelektronikk.<br><b>Årskull:</b> Begynner i 4. klasse etter sommeren<br><b>Veileder:</b> Justin Wells på QuSpin</p><br>
