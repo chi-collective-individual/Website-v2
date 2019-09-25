@@ -72,7 +72,7 @@
                 </div>
             </div>
 
-            <a href="#top-content"><img src="../images/up-arrow.PNG" style="max-width: 20px; postion: center;"></a> 
+            <a href="#top-content"><img src="images/up-arrow.PNG" style="max-width: 20px; postion: center;"></a> 
             <!--Footer-->
             <div class="bg-smaragd">
                 <h1 class="mt">Mer informasjon</h1>
