@@ -24,7 +24,7 @@
         <?php include("../menu.php");?>
 
         <div class="indent">
-            <img src="../images/facultyFocus.jpg">
+            <img src="../images/facultyFocus.jpg" id="top-content" alt="Picture can't load">
 
             <!--Information about SaP-->
             <h1>Studentprosjekter</h1>
@@ -108,6 +108,7 @@
                     <div class="flex-items three-split small-font"><h3>NAROM</h3><p>NAROM er et nasjonalt senter og skolelaboratorium for alle utdanningsnivåer innenfor romrelatert opplæring. De har gjevnlig studentprosjekter man kan arbeide med, og samlinger man kan søke om å bli med på. <a href="https://www.narom.no/student/" title="NAROM student">Les mer</a></p></div>
                 </div>
             </div>
+            <a href="#top-content"><img src="images/up-arrow.PNG" style="display: block; margin-left: auto; margin-right: auto; width: 5%; margin-top:80px;"></a> 
             <!--Footer-->
             <?php include("../footer_studentprosjekter.php"); ?>
         </div>
