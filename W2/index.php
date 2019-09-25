@@ -72,8 +72,7 @@
                 </div>
             </div>
 
-            <!-- <a href="#top-content" style="font-size: 50px; position: center;">&uArr;</a> -->
-            <div class="bottom-arrow"></div>
+            <a href="#top-content"><img src="..images/up-arrow.PNG" style="max-width: 20px;"></a> 
             <!--Footer-->
             <div class="bg-smaragd">
                 <h1 class="mt">Mer informasjon</h1>
