@@ -72,7 +72,7 @@
                 </div>
             </div>
 
-            <a href="#sap-title" class="go-up-arrow">&uArr;</a>
+            <a href="#sap-title" style="font-size: 50px; text-align: center;">&uArr;</a>
             <!--Footer-->
             <div class="bg-smaragd">
                 <h1 class="mt">Mer informasjon</h1>
