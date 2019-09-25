@@ -168,7 +168,7 @@ lh img{
     border-bottom: 5px solid #6A0136;
 }
 .bottom-arrow:after {
-    content:'';
+    content:'Hello';
     position: absolute;
     left: 0;
     right: 0;
