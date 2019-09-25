@@ -27,7 +27,7 @@
             <img src="images/sapLabFront.jpg">
 
             <!--Information about SaP-->
-            <h1>Students as Partners</h1><p class="center">Ønsker du å samarbeide med et av Norges fremste forskningsmiljøer? Her vil ansatte på Institutt for fysikk legge ut prosjekter for studenter fra alle årskull. Vil du utvikle dine egne idéer, eller bidra i et av de mange studentprosjektene på NTNU? Vi hjelper deg å ta steget!</p>
+            <h1 id="sap-title">Students as Partners</h1><p class="center">Ønsker du å samarbeide med et av Norges fremste forskningsmiljøer? Her vil ansatte på Institutt for fysikk legge ut prosjekter for studenter fra alle årskull. Vil du utvikle dine egne idéer, eller bidra i et av de mange studentprosjektene på NTNU? Vi hjelper deg å ta steget!</p>
             <!--Temporary announcement below. REMOVE after one studentassistent is hired-->
             <div class="bg-smaragd">
             <div class="flex-container">
@@ -71,6 +71,8 @@
                     </div>
                 </div>
             </div>
+
+            <a href="#sap-title">&uarr;</a>
             <!--Footer-->
             <div class="bg-smaragd">
                 <h1 class="mt">Mer informasjon</h1>
