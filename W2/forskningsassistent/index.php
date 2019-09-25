@@ -23,7 +23,7 @@
 
         <div class="indent">
             <div class="container">
-                <img src="../images/Geir Mogen2.jpeg">
+                <img src="../images/Geir Mogen2.jpeg" alt="Picture can't load" id="top-content">
                 <p class="text-block">Foto: Geir Mogen</p>
             </div>
             <!--Information about SaP-->
@@ -69,7 +69,7 @@
 
                 </div>
             </div>
-
+            <a href="#top-content"><img src="../images/up-arrow.PNG" style="display: block; margin-left: auto; margin-right: auto; width: 5%; margin-top:80px;"></a> 
             <!--Footer-->
             <?php include("../footer_studentprosjekter.php"); ?>
         </div>

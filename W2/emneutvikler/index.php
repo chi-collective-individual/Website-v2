@@ -25,7 +25,7 @@
     <?php include("../menu.php"); ?> 
       
         <div class="indent">
-            <img src="../images/emneutvikler_cellebio4.jpg">
+            <img src="../images/emneutvikler_cellebio4.jpg" alt="picture can't load" id="top-content">
 
             <!--Information about emneutvikler-->
             <h1>Emneutvikler</h1>
@@ -68,7 +68,7 @@
 
                 </div>
             </div>
-
+            <a href="#top-content"><img src="../images/up-arrow.PNG" style="display: block; margin-left: auto; margin-right: auto; width: 5%; margin-top:80px;"></a> 
             <!--Footer-->
             <?php include("../footer_studentprosjekter.php"); ?>
         </div>

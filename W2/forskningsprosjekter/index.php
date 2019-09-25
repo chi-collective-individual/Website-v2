@@ -24,7 +24,7 @@
 
 
         <div class="indent">
-            <img src="../images/Lab070819.jpg">
+            <img src="../images/Lab070819.jpg" alt="Picture can't load" id="top-content">
 
             <!--Information about SaP-->
             <h1>Forskningsprosjekter</h1>
@@ -73,7 +73,7 @@
                     -->
                 </div>
             </div>
-
+            <a href="#top-content"><img src="../images/up-arrow.PNG" style="display: block; margin-left: auto; margin-right: auto; width: 5%; margin-top:80px;"></a> 
             <!--Footer-->
             <?php include("../footer_studentprosjekter.php"); ?>
         </div>
