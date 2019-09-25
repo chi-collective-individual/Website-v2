@@ -164,12 +164,21 @@ lh img{
     color: black;
     font-size: 35px;
 }
-.go-up-arrow {
-    color: black;
-    font-size: 100px;
-    text-align: center;
+.bottom-arrow {
+    border-bottom: 5px solid #6A0136;
 }
-
+.bottom-arrow:after {
+    content:'';
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 0;
+    height: 0;
+    border-top: 25px solid #6A0136;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+}
 /*Footer*/
 .footer-paragraph{
     text-align: center;
