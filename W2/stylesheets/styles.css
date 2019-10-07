@@ -5,8 +5,9 @@
     box-sizing: border-box;
     font-family: 'Raleway';
 }
+/*Makes scrolling to top of page smooth.*/
 html {
-    scroll-behavior:smooth;
+    scroll-behavior:smooth; 
 }
 /*Set max-width to not get a too wide page on big screens*/
 body{
