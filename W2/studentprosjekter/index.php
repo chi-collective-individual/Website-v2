@@ -39,7 +39,7 @@
                         <a href="..." title="" class="two-split"><div class="hover-shadow"><h3></h3><p>...</p></div></a>
                     -->
                     <a href="./kvantemekanikk_studentprosjekt.pdf" title="Forstå kvantemekanikk" target="_blank" class="two-split"><div class="hover-shadow"><h3>Forstå kvantemekanikk</h3><p>Spørsmål om hva målinger er, og virkeligheten til bølgefunksjonen blir ofte møtt med tankegangen "hold kjeft og regn". Jeg mener dette er unødvendig siden det finnes mange interessante tankeeksperimenter... Les mer. </p></div></a>
-                    <a href="./PhiAvionics.pdf" title="PhiAvionics" target="_blank" class="two-split"><div class="hover-shadow"><h3>PhiAvionics</h3><p>Vi er en gruppe studenter som har laget en interessegruppe kalt PhiAvionics som går ut på å få til å lage en drone utover de kommende semestrene. Prosjektet vi skal satse på er å lage en såkalt amfibiedrone som... Les mer. </p></div></a>               
+                    <a href="./PhiAvionics.pdf" title="PhiAvionics" target="_blank" class="two-split mt"><div class="hover-shadow"><h3>PhiAvionics</h3><p>Vi er en gruppe studenter som har laget en interessegruppe kalt PhiAvionics som går ut på å få til å lage en drone utover de kommende semestrene. Prosjektet vi skal satse på er å lage en såkalt amfibiedrone som... Les mer. </p></div></a>               
                 </div>
             </div>
             
