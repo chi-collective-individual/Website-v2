@@ -29,11 +29,6 @@
 
             <!--Contact information-->
             <h1>Kontaktinformasjon til studentassistenter</h1><p class="center">Har du spørsmål til nettsiden eller utlysninger, send en mail eller slå av en prat med studentassistentene som vedlikeholder nettsiden.</p>
-            <div class="bg-blue">
-                <div class="flex-container">
-                <p class="split-narrow">Ønsker du å bli den nye koordinatoren/webutvikleren for SaP-nettsiden?<br><a href="../webutvikler_sap.pdf" target="_blank" class="black-arrow">&rarr;</a></p>
-                </div>
-            </div>
             
             <div class="bg-smaragd">
                 <h1 class="mt">Studentassistenter</h1>
