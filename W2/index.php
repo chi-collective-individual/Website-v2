@@ -31,7 +31,7 @@
             <!--Temporary announcement below. REMOVE after one studentassistent is hired-->
             <div class="bg-smaragd">
             <div class="flex-container">
-                <p class="split-narrow">Vil du vite mer om pågående studentprosjekter? Møt opp på fredagskollokvie fredag 1. :)<br><a href="https://www.ntnu.edu/physics/colloquia" target="_blank" class="white-arrow">&rarr;</a></p>     
+                <p class="split-narrow">Vil du vite mer om pågående studentprosjekter? Møt opp på fredagskollokvie fredag 1. nov for å høre andre fysikkstudenter fortelle om sine prosjekter...Les mer.<br><a href="https://www.ntnu.edu/physics/colloquia" target="_blank" class="white-arrow">&rarr;</a></p>     
             </div> 
             </div>
             <!--Information about the different types of projects with link to their pages-->
