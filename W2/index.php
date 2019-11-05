@@ -28,12 +28,10 @@
 
             <!--Information about SaP-->
             <h1>Students as Partners</h1><p class="center">Ønsker du å samarbeide med et av Norges fremste forskningsmiljøer? Her vil ansatte på Institutt for fysikk legge ut prosjekter for studenter fra alle årskull. Vil du utvikle dine egne idéer, eller bidra i et av de mange studentprosjektene på NTNU? Vi hjelper deg å ta steget!</p>
-            <!--Temporary announcement below. REMOVE after one studentassistent is hired-->
-            <div class="bg-smaragd">
-            <div class="flex-container">
-                <p class="split-narrow">Vil du vite mer om pågående studentprosjekter? Møt opp på fredagskollokvie 1. nov for å høre andre fysikkstudenter fortelle om sine prosjekter...Les mer.<br><a href="https://www.ntnu.edu/physics/colloquia" target="_blank" class="white-arrow">&rarr;</a></p>     
-            </div> 
-            </div>
+            
+            <!--Temporary announcement blueprint below. REMOVE after message is outdated-->
+           <!-- <div class="bg-smaragd"><div class="flex-container"><p class="split-narrow">Vil du vite mer om pågående studentprosjekter? Møt opp på fredagskollokvie 1. nov for å høre andre fysikkstudenter fortelle om sine prosjekter...Les mer.<br><a href="https://www.ntnu.edu/physics/colloquia" target="_blank" class="white-arrow">&rarr;</a></p> </div> </div> -->
+            
             <!--Information about the different types of projects with link to their pages-->
             <div class="bg-blue">
                 <h1>Hva kan du jobbe med?</h1>
