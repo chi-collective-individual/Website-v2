@@ -7,7 +7,7 @@
 }
 /*Makes scrolling to top of page smooth.*/
 html {
-    scroll-behavior:smooth; 
+    scroll-behavior:smooth;
 }
 /*Set max-width to not get a too wide page on big screens*/
 body{
@@ -64,7 +64,7 @@ lh img{
     width: 100%;
     height: auto;
     overflow: hidden;
-    /*min-width: 200px; Test. might have to remove this*/
+    border-radius: 10px;
 }
 
 /*-------Container and childs for responsive design---------*/
