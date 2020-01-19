@@ -85,7 +85,7 @@
                         <p><strong>Student: </strong>Herman Sletmoen</p> 
                         <p><strong>Veileder: </strong>Jon Andreas Støvneng</p>
                         <a href="./Studentprosjekt_TFY4215.pdf" title="Øvingsopplegg i kvantemekanikk"  target="_blank"><div class="hover-shadow"><p>Se prosjektbeskrivelse.</p></div></a>  
-                        <a href="" title="Øvingsopplegg i kvantemekanikk" target="_blank"><div class="hover-shadow">Se prosjektrapport.</div></a>
+                        <a href="./tfy4215_compex_report.pdf" title="Øvingsopplegg i kvantemekanikk" target="_blank"><div class="hover-shadow">Se prosjektrapport.</div></a>
                    </div>
                    <div class="two-split"> 
                         <h3>Sommerjobb IFY 2019</h3>
