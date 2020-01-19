@@ -40,10 +40,10 @@
                     <!--Mal: 
                     <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p></p></div></a>
                     -->
-                    <a href="./Prosjekt_Laboratorie_Journal.pdf" target="_blank" title="Oppdatering og oversetting av hefte" class="two-split"><div class="hover-shadow"><h3>Uppdatering och översättning av häfte</h3><p>I och med omläggning av laborationer och examination av laborativt arbete kommer det att läggas större vikt på journalföring. Bland annat kommer det att införas en «open-bok» examination där... Les mer.</p></div></a>
-                    <a href="./Prosjekt_videoanalys.pdf" target="_blank" title="Videoanalyse Tracker" class="two-split mt"><div class="hover-shadow"><h3>Videoanalyseprogrammet Tracker</h3><p>Delar av laborationerna vid institutt for fysikk är baserade på videoanalysprogrammet Tracker. Det finns idag ett introduktionshäfte som beskriver programmet och visar på exempel på bruk... Les mer.</p></div></a>
-                    <a href="./Studentprosjekt_IFYKJ_LAB.pdf" target="_blank" title="IFY/KJ nettside" class="two-split"><div class="hover-shadow"><h3>Nettside til fysikk/kjemi lab</h3><p>Emnet Fysikk/kjemi på 10 studiepoeng tas i 2. semester av ingeniørstudentene i Trondheim, Ålesund og på Gjøvik. I emnet inngår en laboppgave av moderat omfang tematsk knytet tl mekanikkdelen av emnet. Det er behov for å lage en enkel webside for denne laben.... Les mer.</p></div></a>
-                    <a href="./versjonskontrollsystem.pdf" target="_blank" title="Versjonskontrollsystem" class="two-split mt"><div class="hover-shadow"><h3>Versjonskontroll</h3><p>For å effektivt samarbeide om programvareutvikling brukes det nesten alltid et såkalt versjonskontrollsystem. Et slikt system er Git, og dette er noe flere studenter vil komme borti senere i studiet eller i arbeidslivet. ... Les mer.</p></div></a>
+                    
+                    <a href="./Prosjekt_videoanalys.pdf" target="_blank" title="Videoanalyse Tracker" class="two-split"><div class="hover-shadow"><h3>Videoanalyseprogrammet Tracker</h3><p>Delar av laborationerna vid institutt for fysikk är baserade på videoanalysprogrammet Tracker. Det finns idag ett introduktionshäfte som beskriver programmet och visar på exempel på bruk... Les mer.</p></div></a>
+                    <a href="./Studentprosjekt_IFYKJ_LAB.pdf" target="_blank" title="IFY/KJ nettside" class="two-split mt"><div class="hover-shadow"><h3>Nettside til fysikk/kjemi lab</h3><p>Emnet Fysikk/kjemi på 10 studiepoeng tas i 2. semester av ingeniørstudentene i Trondheim, Ålesund og på Gjøvik. I emnet inngår en laboppgave av moderat omfang tematsk knytet tl mekanikkdelen av emnet. Det er behov for å lage en enkel webside for denne laben.... Les mer.</p></div></a>
+                    <a href="./versjonskontrollsystem.pdf" target="_blank" title="Versjonskontrollsystem" class="two-split"><div class="hover-shadow"><h3>Versjonskontroll</h3><p>For å effektivt samarbeide om programvareutvikling brukes det nesten alltid et såkalt versjonskontrollsystem. Et slikt system er Git, og dette er noe flere studenter vil komme borti senere i studiet eller i arbeidslivet. ... Les mer.</p></div></a>
                 </div>
             </div>
             
@@ -55,8 +55,7 @@
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     -->
                     <!--<p class="split-narrow">Rasmus Tranås var med å utvikle de numeriske øvingene i mekanisk fysikk sommmeren 2019. Les om hans sommer ved Institutt for fysikk.<br><a href="../nyheter/intervjuRasmus.php" class="white-arrow">&rarr;</a></p> -->
-                    <p class="split-narrow">Ingjald Øverbøs tillegg, regneøvinger og løsningsforslag i emnet TFY4215 Innføring i kvantefysikk representerer uvurderlige læringsressurser for studentene... Les mer<br><a href="./Studentprosjekt_TFY4215.pdf" target="_blank" class="white-arrow">&rarr;</a></p>
-                    <p class="split-narrow">Våren 2020 starter ett nytt emne opp ved Institutt for fysikk: TFY4163 Bølgefysikk og fluidmekanikk. Innen bølgefysikk er det mange spennende fysiske fenomener... Les mer<br><a href="./TFY4163_demonstrasjoner.pdf" target="_blank" class="white-arrow">&rarr;</a></p>
+                   <p>Ingen pågående prosjekter for øyeblikket.<br><br>
                 </div>
             </div>
 
@@ -65,9 +64,36 @@
                 <h1 class="mt">Tidligere utlysninger</h1>
                 <p class="center-paragraph">Her kan du lese om tidligere utlysninger. Disse er ikke lenger mulige å søke på, men gir deg en pekepinn på hva som kan utlyses og hvordan utlysningene ser ut. </p>
                 <div class="flex-container">
-                <!--Mal: <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p></p></div></a>-->
-                    <a href="Sommerjobb ved Institutt for fysikk 2019.pdf" title="Sommerjobb IFY" class="two-split"><div class="hover-shadow"><h3>Emneutvikler IFY</h3><p>Er du interessert i en sommerjobb ved IFY? Institutt for fysikk søker studenter med interesse for programmering og numerisk fysikk til sommerjobb. Arbeidet omfatter utvikling av læringsmateriell i forbindelse med økt fokus på numerisk beregninger i grunnkursene i fysikk.</p></div></a>
-
+              
+                <!--Mal for å legge ut ferdig prosjekt med prosjektbeskrivelse og rapport-->    
+                    <div class="two-split"> 
+                        <h3>Demonstrasjoner i TFY4163</h3>
+                        <p><strong>Student: </strong>Michael Robert Kelly</p> 
+                        <p><strong>Veileder: </strong>Magnus Lilledahl</p>
+                        <a href="./TFY4163_demonstrasjoner.pdf" title="Demonstrasjoner i TFY4163"  target="_blank"><div class="hover-shadow"><p>Se prosjektbeskrivelse.</p></div></a>  
+                        <a href="./TFY4163_B_lgefysikk_og_fluidmekanikk.pdf" title="Demonstrasjoner i TFY4163" target="_blank"><div class="hover-shadow">Se prosjektrapport.</div></a>
+                   </div>
+                   <div class="two-split"> 
+                        <h3>Oversetting og oppdatering av hefte</h3>
+                        <p><strong>Student: </strong>Tora Dahl</p> 
+                        <p><strong>Veileder: </strong>Rolf Jonas Persson</p>
+                        <a href="./Prosjekt_Laboratorie_Journal.pdf" title="Oversetting og oppdatering av hefte"  target="_blank"><div class="hover-shadow"><p>Se prosjektbeskrivelse.</p></div></a>  
+                        <a href="" title="Oversetting og oppdatering av hefte" target="_blank"><div class="hover-shadow">Se prosjektrapport.</div></a>
+                   </div>
+                   <div class="two-split"> 
+                        <h3>Øvingsopplegg i kvantemekanikk</h3>
+                        <p><strong>Student: </strong>Herman Sletmoen</p> 
+                        <p><strong>Veileder: </strong>Jon Andreas Støvneng</p>
+                        <a href="./Studentprosjekt_TFY4215.pdf" title="Øvingsopplegg i kvantemekanikk"  target="_blank"><div class="hover-shadow"><p>Se prosjektbeskrivelse.</p></div></a>  
+                        <a href="" title="Øvingsopplegg i kvantemekanikk" target="_blank"><div class="hover-shadow">Se prosjektrapport.</div></a>
+                   </div>
+                   <div class="two-split"> 
+                        <h3>Sommerjobb IFY 2019</h3>
+                        <p><strong>Student: </strong>Solfrid Johansen, Rasmus André Tranås og Rasmus André Tranås</p> 
+                        <p><strong>Veileder: </strong>Magnus Lilledahl og Jaakko Akola</p>
+                        <a href="Sommerjobb ved Institutt for fysikk 2019.pdf" title="Sommerjobb IFY 2019"  target="_blank"><div class="hover-shadow"><p>Se prosjektbeskrivelse.</p></div></a>  
+                        <a href="https://www.ntnu.no/fysikk/studier/emner" title="Øvingsopplegg i kvantemekanikk" target="_blank"><div class="hover-shadow">Se numeriske øvinger i Mekanisk fysikk, Bølgefysikk og fluidmekanikk samt Elektrisitet og magnetisme.</div></a>
+                   </div>
                 </div>
             </div>
             <a href="#top-content"><img src="../images/up-arrow.PNG" style="display: block; margin-left: auto; margin-right: auto; width: 5%; margin-top:80px;"></a> 

@@ -56,7 +56,7 @@
                     <!--Mal:
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     -->
-                    <p class="split-narrow">Electrons propagating from extragalactic sources to Earth may loose energy, as they excite waves in the plasma filling... Read more<br><a href="electron_propagation.pdf" class="white-arrow">&rarr;</a></p>
+                    <p>Ingen pågående prosjekter for øyeblikket.</p><br><br>
                   
                 
                 </div>
@@ -67,11 +67,20 @@
                 <h1 class="mt">Tidligere prosjekter</h1>
                 <p class="center-paragraph">Her kan du lese om tidligere forskningsprosjekter.</p>
                 <div class="flex-container">
-
+                   
                     <!--Mal:
                        <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p>...</p></div></a>
                     -->
-                    <a href="nyheter/intervjuHavard.html" title="Intervju" class="two-split"><div class="hover-shadow"><h3>Håvard fikk sommerjobb hos Justin Wells</h3><p>Dette er den første sommeren jeg jobber som forskningsassistent i laboratoriet, og prosjektet jeg jobber med er å sette opp et nytt system som skal hente målt trykk i et vakuumkammer. Dette skal det lages backup av... Les mer.</p></div></a>    
+                   <div class="two-split"> 
+                        <h3>Electron propagation</h3>
+                        <p><strong>Student: </strong>Jacob Benestad</p> 
+                        <p><strong>Supervisor: </strong>Michael Kachelriess</p>
+                        <a href="electron_propagation.pdf" title="Electron propagation"  target="_blank"><div class="hover-shadow"><p>See project description.</p></div></a>  
+                        <a href="Instability_models_for_ELMAG.pdf" title="Electron propagation report" target="_blank"><div class="hover-shadow">See project report.</div></a>
+                   </div>
+                   
+                  <!--  <a href="nyheter/intervjuHavard.html" title="Intervju" class="two-split"><div class="hover-shadow"><h3>Håvard fikk sommerjobb hos Justin Wells</h3><p>Dette er den første sommeren jeg jobber som forskningsassistent i laboratoriet, og prosjektet jeg jobber med er å sette opp et nytt system som skal hente målt trykk i et vakuumkammer. Dette skal det lages backup av... Les mer.</p></div></a>    -->
+                
                 </div>
             </div>
             <a href="#top-content"><img src="../images/up-arrow.PNG" style="display: block; margin-left: auto; margin-right: auto; width: 5%; margin-top:80px;"></a> 
