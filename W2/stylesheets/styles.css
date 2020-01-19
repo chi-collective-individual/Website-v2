@@ -198,3 +198,11 @@ lh img{
 .container {
     position:relative;
 }
+
+/*Contact images of student assistants*/
+#studass{
+    display:block;
+    width: 200px;
+    height:200px;
+    border-radius: 60%;
+}
