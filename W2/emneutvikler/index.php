@@ -89,7 +89,7 @@
                    </div>
                    <div class="two-split"> 
                         <h3>Sommerjobb IFY 2019</h3>
-                        <p><strong>Student: </strong>Solfrid Johansen, Rasmus André Tranås og Rasmus André Tranås</p> 
+                        <p><strong>Student: </strong>Solfrid Johansen og Rasmus André Tranås</p> 
                         <p><strong>Veileder: </strong>Magnus Lilledahl og Jaakko Akola</p>
                         <a href="Sommerjobb ved Institutt for fysikk 2019.pdf" title="Sommerjobb IFY 2019"  target="_blank"><div class="hover-shadow"><p>Se prosjektbeskrivelse.</p></div></a>  
                         <a href="https://www.ntnu.no/fysikk/studier/emner" title="Øvingsopplegg i kvantemekanikk" target="_blank"><div class="hover-shadow">Se numeriske øvinger i Mekanisk fysikk, Bølgefysikk og fluidmekanikk samt Elektrisitet og magnetisme.</div></a>
