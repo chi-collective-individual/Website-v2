@@ -206,3 +206,8 @@ lh img{
     height:200px;
     border-radius: 60%;
 }
+
+a.disabled{
+    pointer-events: null;
+    cursor: default;
+}

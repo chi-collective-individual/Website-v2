@@ -78,7 +78,7 @@
                         <p><strong>Student: </strong>Tora Dahl</p> 
                         <p><strong>Veileder: </strong>Rolf Jonas Persson</p>
                         <a href="./Prosjekt_Laboratorie_Journal.pdf" title="Oversetting og oppdatering av hefte"  target="_blank"><div class="hover-shadow"><p>Se prosjektbeskrivelse.</p></div></a>  
-                        <a href="" title="Oversetting og oppdatering av hefte" target="_blank"><div class="hover-shadow">Se prosjektrapport.</div></a>
+                        <a class="disabled" href="" title="Oversetting og oppdatering av hefte" target="_blank"><div class="hover-shadow">Se prosjektrapport.</div></a>
                    </div>
                    <div class="two-split"> 
                         <h3>Øvingsopplegg i kvantemekanikk</h3>
