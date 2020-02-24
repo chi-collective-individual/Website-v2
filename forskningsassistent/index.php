@@ -40,7 +40,8 @@
                     <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p>...</p></div></a>
                     -->
 
-                    <a href="./Project announcement august QuSpin.pdf" title="Forskningsassistent" class="two-split" target="_blank"><div class="hover-shadow"><h3>Project announcement QuSpin</h3><p> Contributing to the maintenance, development/upgrading and testing of the research laboratories. Typical tasks would include interfacing instruments to a web-based platform, servicing vacuum pumps, testing and upgrading XPS, UPS and LEED instruments... Read more.</p></div></a>
+                    <a href="./labass_gibson.pdf" title="Forskningsassistent" class="two-split" target="_blank"><div class="hover-shadow"><h3>Laser processing of materials</h3> We have been using a commercial CO2 laser engraver to make semiconductor threads inside glass cladding into single crystals. (Think optical fiber, but bigger, and with a core suitable for longer wavelengths than glass can transmit). We want to extend our scanning... Read more.</p></div></a>
+                    <a href="./Project announcement august QuSpin.pdf" title="Forskningsassistent" class="two-split mt" target="_blank"><div class="hover-shadow"><h3>Project announcement QuSpin</h3><p> Contributing to the maintenance, development/upgrading and testing of the research laboratories. Typical tasks would include interfacing instruments to a web-based platform, servicing vacuum pumps, testing and upgrading XPS, UPS and LEED instruments... Read more.</p></div></a>
                 </div>
             </div>
             
