@@ -38,7 +38,7 @@
                 <div class="flex-container">
                     <a href="forskningsprosjekter/index.php" title="Forskningsprosjekter" class="two-split"><div class="hover-shadow"><h3>Forskningsprosjekter</h3><p>Hvis du ønsker å prøve deg som forsker er dette perfekt for deg! Du får muligheten til å arbeide med ditt eget prosjekt. Prosjektene varierer mye, fra numerisk analyse til å reprodusere eksperimentelle forsøk. Les mer.</p></div></a>
 
-                    <a href="emneutvikler/index.php" title="Emneutvikler" class="two-split mt"><div class="hover-shadow"><h3>Emneutvikler</h3><p>Vil du bidra til å utvikle læringsressurser for kommende studentkull? Ønsker du å få mer kunnskap om god pedagogisk praksis og å videreutvikle undervisningen av fysikk? Les mer.</p></div></a>
+                    <a href="emneutvikler/index.php" title="Emneutvikler" class="two-split"><div class="hover-shadow"><h3>Emneutvikler</h3><p>Vil du bidra til å utvikle læringsressurser for kommende studentkull? Ønsker du å få mer kunnskap om god pedagogisk praksis og å videreutvikle undervisningen av fysikk? Les mer.</p></div></a>
 
                     <a href="studentprosjekter/index.php" title="Studentprosjekter" class="two-split"><div class="hover-shadow"><h3>Studentprosjekter</h3><p>Brenner du inne med en idé du ønsker å realisere? Vil du samarbeide med andre studenter og anvende dine praktiske og analytiske ferdigheter? Her finner du tidligere prosjekter, nåværende prosjekter og eksterne prosjekter. Les mer.</p></div></a>
                 </div>
