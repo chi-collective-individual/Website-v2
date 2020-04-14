@@ -211,3 +211,14 @@ a.disabled{
     pointer-events: null;
     cursor: default;
 }
+
+.special-link{
+    text-decoration: none;
+    color: black;
+}
+
+.special-link:hover{
+    text-decoration: underline;
+    cursor:grab;
+    color: blue;
+}
