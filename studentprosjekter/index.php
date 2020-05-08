@@ -3,7 +3,6 @@
     
                 
     <head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-147425276-1"></script>
         <script>
         window.dataLayer = window.dataLayer || [];
@@ -11,7 +10,6 @@
         gtag('js', new Date());
         gtag('config', 'UA-147425276-1');
         </script>
-        <!--Tag ends-->
         <meta charset="UTF-8">
         <link rel="stylesheet" href="../stylesheets/styles.css">
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet">
@@ -20,7 +18,6 @@
 
     </head>
     <body>
-        <!--container for the header that is in all pages-->
         <?php include("../menu.php");?>
 
         <div class="indent">
@@ -32,7 +29,7 @@
             
             <!--Active project announcements-->
             <div class="bg-blue">
-                <h1>Annonser din idé</h1>
+                <h1>Annonsér din idé</h1>
                 <p class="center-paragraph">Her publiseres nye studentprosjekter fortløpende. Send mail til en av studentassistentene (se <a href="../kontakt.php">kontakt</a>) der du beskriver ideén din og eventuelt hvem du ønsker å samarbeide med. </p>
                 <div class="flex-container">
                     <!--Mal:
@@ -43,7 +40,6 @@
                 </div>
             </div>
             
-            <!--Ongoing projects, currently Revolve and Orbit as examples-->
             <div class="bg-smaragd">
                 <h1 class="mt">Pågående studentprosjekter</h1>
                 <div class="flex-container">
@@ -57,16 +53,15 @@
                 </div>
             </div>
 
-            <!--Past/outdated project announcements-->
+            <!--
             <div class="bg-blue">
                 <h1 class="mt">Tidligere prosjekter</h1>
                 <p class="center-paragraph">Her kan du lese om tidligere prosjekter. </p>
-                    <!--Mal:
-                       <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p>...</p></div></a>
-                    -->
-            </div>
+                <a href="" title="" class="two-split"><div class="hover-shadow"><h3></h3><p>...</p></div></a>
 
-            <!--Useful pages-->
+            </div>
+            -->
+
             <div class="bg-smaragd-soft">
                 <h1 class="mt">Videre lesing</h1>
                 <p class="center-paragraph">Eksterne sider med mye informasjon, tips og nettverk som arbeider for å gjøre det enklere å drive innovativ utvikling på NTNU.</p>
@@ -97,10 +92,6 @@
 
                 <div class="flex-container">
 
-                    <!--Mal:
-                        <div class="flex-items three-split small-font"><h3></h3><p>...<a href="" title=""></a></p></div>
-                    -->
-                    
                     <div class="flex-items three-split small-font"><h3>Blank</h3><p>Blanks sommerstipend deles ut til to designstudenter og to teknologistudenter hvert år. Man skal arbeide med sitt eget prosjekt og får hjelp fra Blank og deres medarbeidere ved behov. <a href="https://www.blank.no/sommerstipend" title="Blank sommerstipend">Les mer</a></p></div>
 
                     <div class="flex-items three-split small-font"><h3>Equinor</h3><p>Equinor har i tillegg til studentarrangementer, stands, internships og sommerjobber noe de kaller Equinor Innovate. Her publiserer de utfordringer som man kan prøve å løse best mulig. <a href="https://www.equinor.com/en/how-and-why/innovate.html" title="Equinor Innovate">Les mer</a></p></div>
@@ -109,7 +100,6 @@
                 </div>
             </div>
             <a href="#top-content"><img src="../images/up-arrow.PNG" style="display: block; margin-left: auto; margin-right: auto; width: 5%; margin-top:80px;"></a> 
-            <!--Footer-->
             <?php include("../footer_studentprosjekter.php"); ?>
         </div>
     </body>
