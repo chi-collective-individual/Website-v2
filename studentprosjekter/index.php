@@ -23,30 +23,22 @@
         <div class="indent">
             <img src="../images/facultyFocus.jpg" id="top-content" alt="Picture can't load">
 
-            <!--Information about SaP-->
             <h1>Studentprosjekter</h1>
             <p class="center-paragraph">Ønsker du å skape noe helt eget, eller teame opp med andre studenter for å utvikle en idé? Dette er stedet for å tenke stort, og lufte ideér. Annonser din egen idé for å tiltrekke medstudenter eller bli med på et eksisterende prosjekt.</p>
             
-            <!--Active project announcements-->
             <div class="bg-blue">
                 <h1>Annonsér din idé</h1>
                 <p class="center-paragraph">Her publiseres nye studentprosjekter fortløpende. Send mail til en av studentassistentene (se <a href="../kontakt.php">kontakt</a>) der du beskriver ideén din og eventuelt hvem du ønsker å samarbeide med. </p>
                 <div class="flex-container">
-                    <!--Mal:
-                        <a href="..." title="" class="two-split"><div class="hover-shadow"><h3></h3><p>...</p></div></a>
-                    -->
-                    <a href="./kvantemekanikk_studentprosjekt.pdf" title="Forstå kvantemekanikk" target="_blank" class="two-split"><div class="hover-shadow"><h3>Forstå kvantemekanikk</h3><p>Spørsmål om hva målinger er, og virkeligheten til bølgefunksjonen blir ofte møtt med tankegangen "hold kjeft og regn". Jeg mener dette er unødvendig siden det finnes mange interessante tankeeksperimenter... Les mer. </p></div></a>
-                    <a href="./PhiAvionics.pdf" title="PhiAvionics" target="_blank" class="two-split mt"><div class="hover-shadow"><h3>PhiAvionics</h3><p>Vi er en gruppe studenter som har laget en interessegruppe kalt PhiAvionics som går ut på å få til å lage en drone utover de kommende semestrene. Prosjektet vi skal satse på er å lage en såkalt amfibiedrone som... Les mer. </p></div></a>               
+                    <a href="./europeiskRakettprosjekt.pdf" title="Europeisk rakettprosjekt" target="_blank" class="two-split"><div class="hover-shadow"><h3>Europeisk rakettprosjekt</h3><p>Ønsker du ådelta i et europeisk rakettprosjekt? REXUS er et prosjekt drevet avden tyske, den svenske og den europeiske romorganisasjonen, som hjelper studenter med å... Les mer.</p></div></a>
+                    <a href="./kvantemekanikk_studentprosjekt.pdf" title="Forstå kvantemekanikk" target="_blank" class="two-split mt"><div class="hover-shadow"><h3>Forstå kvantemekanikk</h3><p>Spørsmål om hva målinger er, og virkeligheten til bølgefunksjonen blir ofte møtt med tankegangen "hold kjeft og regn". Jeg mener dette er unødvendig siden det finnes mange interessante tankeeksperimenter... Les mer. </p></div></a>
+                    <a href="./PhiAvionics.pdf" title="PhiAvionics" target="_blank" class="two-split"><div class="hover-shadow"><h3>PhiAvionics</h3><p>Vi er en gruppe studenter som har laget en interessegruppe kalt PhiAvionics som går ut på å få til å lage en drone utover de kommende semestrene. Prosjektet vi skal satse på er å lage en såkalt amfibiedrone som... Les mer. </p></div></a>               
                 </div>
             </div>
             
             <div class="bg-smaragd">
                 <h1 class="mt">Pågående studentprosjekter</h1>
                 <div class="flex-container">
-
-                    <!--Mal: 
-                    <p class="split-narrow">....<br><a href="../nyheter/***.php" class="white-arrow">&rarr;</a></p>
-                    -->
 
                     <p class="split-narrow">Revolve NTNU er en uavhengig studentorganisasjon som utvikler Formel 1 biler.<br><a href="https://www.revolve.no/" class="white-arrow">&rarr;</a></p>
                     <p class="split-narrow">Orbit NTNU er en uavhengig studentorganisasjon som lager den første satelitten produsert av studenter i Norge.<br><a href="https://www.orbitntnu.com/" class="white-arrow">&rarr;</a></p>
