@@ -28,12 +28,6 @@
 
             <!--Contact information-->
             <h1>Kontaktinformasjon til studentassistenter</h1><p class="center">Har du spørsmål til nettsiden eller utlysninger, send en mail eller slå av en prat med studentassistentene som vedlikeholder nettsiden.</p>
-
-            <h2>Ønsker du å bli den nye koordinatoren? Nå har du sjansen!</h2>
-                <div class="center"><a href="./Utlysning_studentprosjekt.docx.pdf" class="special-link">Stillingsbeskrivelse</a>
-                <br><br>
-                <span"><strong>Søknadsfrist: snarest!</strong></span>
-            </div>
             
             <div class="bg-smaragd">
                 <h1 class="mt">Studentassistenter</h1>
