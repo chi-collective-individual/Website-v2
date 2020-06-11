@@ -30,7 +30,6 @@
                 <div class="flex-container">
 
                     <a title="Utlysning Simonsen" href="./ProjectSimonsen.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Wave scattering from disordered surfaces</h3><p>When an electromagnetic wave interacts with a disordered surface, so-called speckle patterns result. Such patterns have fascinating statistical properties and ... Show more</p></div></a>
-                    <a title="Utlysning Dias" href="./Project_Dias.docx.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Enzyme conjugation for enhanced adsorption</h3><p>Biocatalysis has emerged as an important technology in green and sustainable synthesis of pharmaceuticals, vitamins, flavor and fragrances. However ... Show more</p></div></a>
                     <a title="Utlysning Skolelaboratoriet" href="./realfagsloyper_skolelab.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Utlysning skolelaboratoriet</h3><p>Prosjektet innebærer å evaluere og foreslå endringer i Fysikkløypa (6. trinn) og Energiløypa (VG1). Evalueringen skal bygge på undersøkelse gjennom observasjon og samtaler med elever som deltar i disse Realfagløypene, deres lærere og studentassistenter som veileder elevene... Les mer</p></div></a>
                     <a title="Utlysning Skolelaboratoriet" href="./Elektrisitet_skolelab.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Utlysning skolelaboratoriet</h3><p>Vi har undersøkt studenters forståelse for grunnleggende elektrisitetslærer, og ønsker hjelp med å systematisere og analysere datamaterialet. Vi ønsker at studien skal ende opp med en hensiktsmessig oversikt over resultatene, samt hvilke trender... Les mer</p></div></a>
                     <a href="./Utlysning_TEM.pdf" target="_blank" title="Research assistant" class="two-split "><div class="hover-shadow"><h3>Utlysning TEM: Programming/data processing</h3><p>In this project a student will apply, further refine or rewrite to a tutorial Juypter notebooks for the analysis of transmission electron microscopy data. Through the project you will become familiar with using open-source... Read more.</p></div></a>
@@ -45,8 +44,8 @@
                     <!--Mal:
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     -->
-                    <div class="split-narrow" ><h3>Utlysning SFF QuSpin</h3><p>Hvordan ivaretas kvinneandelen i fysikkutdannelser? Det kan virke som at det er et stort frafall kvinner innenfor høyere nivå på fysikk, spesielt innenfor teoretisk fysikk. Prosjektet omhandler kartlegging av dette. </p></div>
-                  
+                    <div class="split-narrow"><h3>Utlysning SFF QuSpin</h3><p>Hvordan ivaretas kvinneandelen i fysikkutdannelser? Det kan virke som at det er et stort frafall kvinner innenfor høyere nivå på fysikk, spesielt innenfor teoretisk fysikk. Prosjektet omhandler kartlegging av dette. </p></div>
+                    <div class="split-narrow"><h3>Enzyme conjugation for enhanced adsorption</h3><p>Biocatalysis has emerged as an important technology in green and sustainable synthesis of pharmaceuticals, vitamins, flavor and fragrances. In this project wet lab techniques are used to modify an enzyme and characterize the product in terms of structure and activity. </p></div>
                 
                 </div>
             </div>
