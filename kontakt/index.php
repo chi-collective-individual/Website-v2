@@ -32,8 +32,7 @@
             <div class="bg-smaragd">
                 <h1 class="mt">Studentassistenter</h1>
                 <div class="flex-container footer" style="text-align:center;">
-                   <!-- <p class="split-narrow"><b>Øystein Fruseth Christiansen</b><br><img src="./images/øystein.png"><br><b>Mail:</b><a href="mailto:oysteifc@stud.ntnu.no">oysteifc@stud.ntnu.no</a><br><b>Mobil: <b> +47 48198828 </p> -->
-                   <p class="split-narrow" >Ane Vigre Håland <br><img id="studass" alt="Picture can't load." src="../images/student_assistants/bilde_ane.jpg"><br> Mail: <a href="mailto:anevh@stud.ntnu.no"> anevh@stud.ntnu.no </a> <br> Mobil:+47 99332029  </p>
+                   <p class="split-narrow" >To Be Announced <br><img id="studass" alt="No picture uploaded." src=""><br> Mail: <a href=""> </a> <br> Mobil:</p>
                    <p class="split-narrow" >Alexander Johansen Ohrt <br><img id="studass" alt="Picture can't load." src="../images/student_assistants/AlexanderJO.jpg"><br> Mail: <a href="mailto:alexaoh@stud.ntnu.no"> alexaoh@stud.ntnu.no </a> <br> Mobil:+47 93836710  </p>
                 </div>
             </div>
