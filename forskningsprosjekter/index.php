@@ -45,7 +45,7 @@
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     -->
                     <div class="split-narrow"><h3>Utlysning SFF QuSpin</h3><p>Hvordan ivaretas kvinneandelen i fysikkutdannelser? Det kan virke som at det er et stort frafall kvinner innenfor høyere nivå på fysikk, spesielt innenfor teoretisk fysikk. Prosjektet omhandler kartlegging av dette. </p></div>
-                    <div class="split-narrow"><h3>Enzyme conjugation for enhanced adsorption</h3><p>Biocatalysis has emerged as an important technology in green and sustainable synthesis of pharmaceuticals, vitamins, flavor and fragrances. In this project wet lab techniques are used to modify an enzyme and characterize the product in terms of structure and activity. </p></div>
+                    <div class="split-narrow"><h3>Enzyme Conjugation for Enhanced Adsorption</h3><p>Biocatalysis has emerged as an important technology in green and sustainable synthesis of pharmaceuticals, vitamins, flavor and fragrances. In this project wet lab techniques are used to modify an enzyme and characterize the product in terms of structure and activity. </p></div>
                     <div class="split-narrow"><h3>Analysis of Semiconductor Fibers</h3><p>This project consists of polishing or preparing semiconductor fibers for analysis. If possible, some lithography will be done in the NanoLab. Alternatively, XRD analysis will be conducted in the material science facility. </p></div>
                 </div>
             </div>
