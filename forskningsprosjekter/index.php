@@ -45,7 +45,6 @@
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     -->
                     <div class="split-narrow"><h3>Utlysning SFF QuSpin</h3><p>Hvordan ivaretas kvinneandelen i fysikkutdannelser? Det kan virke som at det er et stort frafall kvinner innenfor høyere nivå på fysikk, spesielt innenfor teoretisk fysikk. Prosjektet omhandler kartlegging av dette. </p></div>
-                    <div class="split-narrow"><h3>Enzyme Conjugation for Enhanced Adsorption</h3><p>Biocatalysis has emerged as an important technology in green and sustainable synthesis of pharmaceuticals, vitamins, flavor and fragrances. In this project wet lab techniques are used to modify an enzyme and characterize the product in terms of structure and activity. </p></div>
                     <div class="split-narrow"><h3>Analysis of Semiconductor Fibers</h3><p>This project consists of polishing or preparing semiconductor fibers for analysis. If possible, some lithography will be done in the NanoLab. Alternatively, XRD analysis will be conducted in the material science facility. </p></div>
                 </div>
             </div>
@@ -65,9 +64,17 @@
                         <a href="electron_propagation.pdf" title="Electron propagation"  target="_blank"><div class="hover-shadow"><p>See project description.</p></div></a>  
                         <a href="Instability_models_for_ELMAG.pdf" title="Electron propagation report" target="_blank"><div class="hover-shadow">See project report.</div></a>
                    </div>
+
+                   <div class="two-split"> 
+                        <h3>Enzyme Conjugation for Enhanced Adsorption</h3>
+                        <p><strong>Student: </strong>Michael Robert Kelly</p> 
+                        <p><strong>Supervisor: </strong>Rita Dias</p>
+                        <a href="Project_Dias.docx.pdf" title="Enzyme Project"  target="_blank"><div class="hover-shadow"><p>See project description.</p></div></a>  
+                        <a href="Enzyme_project.pdf" title="Electron Project Report" target="_blank"><div class="hover-shadow">See project report.</div></a>
+                   </div>
                    
                   <!--  <a href="nyheter/intervjuHavard.html" title="Intervju" class="two-split"><div class="hover-shadow"><h3>Håvard fikk sommerjobb hos Justin Wells</h3><p>Dette er den første sommeren jeg jobber som forskningsassistent i laboratoriet, og prosjektet jeg jobber med er å sette opp et nytt system som skal hente målt trykk i et vakuumkammer. Dette skal det lages backup av... Les mer.</p></div></a>    -->
-                
+
                 </div>
             </div>
             <a href="#top-content"><img src="../images/up-arrow.PNG" style="display: block; margin-left: auto; margin-right: auto; width: 5%; margin-top:80px;"></a> 
