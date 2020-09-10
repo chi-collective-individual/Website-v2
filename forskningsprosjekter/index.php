@@ -44,7 +44,8 @@
                     <!--Mal:
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     -->
-                    <div class="split-narrow"><h3>Utlysning SFF QuSpin</h3><p>Hvordan ivaretas kvinneandelen i fysikkutdannelser? Det kan virke som at det er et stort frafall kvinner innenfor høyere nivå på fysikk, spesielt innenfor teoretisk fysikk. Prosjektet omhandler kartlegging av dette. </p></div>
+                    <!--<div class="split-narrow"><h3>Utlysning SFF QuSpin</h3><p>Hvordan ivaretas kvinneandelen i fysikkutdannelser? Det kan virke som at det er et stort frafall kvinner innenfor høyere nivå på fysikk, spesielt innenfor teoretisk fysikk. Prosjektet omhandler kartlegging av dette. </p></div> -->
+                    
                     <div class="split-narrow"><h3>Analysis of Semiconductor Fibers</h3><p>This project consists of polishing or preparing semiconductor fibers for analysis. If possible, some lithography will be done in the NanoLab. Alternatively, XRD analysis will be conducted in the material science facility. </p></div>
                 </div>
             </div>
