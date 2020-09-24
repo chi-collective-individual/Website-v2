@@ -28,10 +28,10 @@
                 <h1>Aktive utlysninger</h1>
                 <p class="center-paragraph">Her publiseres nye prosjekter fortløpende.</p>
                 <div class="flex-container">
+                <a title="Utlysning Laser-Interface" href="./laser_interface.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Software integration of laser systems</h3><p> The nonlinear optical microscopy laboratory is used to study nonlinear optical phenomena in different materials, primarily for biomedical applications. To generate a nonlinear optical response in materials pulsed lasers with very short pulse durations (about 100 fs) are used... Show more</p><br><span>Announced: 24.09.20</span></div></a>
                     <a title="Utlysning Nano" href="./Nano_announcement.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Real‐World Simulations of Antiferromagnetic Nanostructures</h3><p>We are looking for two motivated students with completed bachelor’s degree in physics, nanotechnology, electronic engineering and/or material science. The candidates should be experienced in Python programming, ... Show more</p><br><span>Announced: 16.09.20</span></div></a>
                     <a title="Utlysning Simonsen" href="./ProjectSimonsen.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Wave scattering from disordered surfaces</h3><p>When an electromagnetic wave interacts with a disordered surface, so-called speckle patterns result. Such patterns have fascinating statistical properties and ... Show more</p><br><span>Announced: 05.02.20</span></div></a>
-                    <a href="./Utlysning_TEM.pdf" target="_blank" title="Research assistant" class="two-split "><div class="hover-shadow"><h3>Utlysning TEM: Programming/data processing</h3><p>In this project a student will apply, further refine or rewrite to a tutorial Juypter notebooks for the analysis of transmission electron microscopy data. Through the project you will become familiar with using open-source... Read more.</p></div></a>
-
+                    <a href="./Utlysning_TEM.pdf" target="_blank" title="Research assistant" class="two-split "><div class="hover-shadow"><h3>Utlysning TEM: Programming/data processing</h3><p>In this project a student will apply, further refine or rewrite to a tutorial Juypter notebooks for the analysis of transmission electron microscopy data. Through the project you will become familiar with using open-source... Show more.</p></div></a>
                 </div>
             </div>
             
