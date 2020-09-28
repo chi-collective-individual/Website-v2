@@ -32,7 +32,7 @@
             <div class="bg-smaragd">
                 <h1 class="mt">Studentassistenter</h1>
                 <div class="flex-container footer" style="text-align:center;">
-                   <p class="split-narrow" >Victoria Bjelland <br><img id="studass" alt="No picture uploaded." src=""><br> Mail: <a href="mailto:victormb@stud.ntnu.no"> victormb@stud.ntnu.no </a> <br> Mobil:</p>
+                   <p class="split-narrow" >Victoria Bjelland <br><img id="studass" alt="No picture uploaded." src=""><br> Mail: <a href="mailto:victormb@stud.ntnu.no"> victormb@stud.ntnu.no </a> <br> Mobil:+4740606115</p>
                    <p class="split-narrow" >Alexander Johansen Ohrt <br><img id="studass" alt="Picture can't load." src="../images/student_assistants/AlexanderJO.jpg"><br> Mail: <a href="mailto:alexaoh@stud.ntnu.no"> alexaoh@stud.ntnu.no </a> <br> Mobil:+47 93836710  </p>
                 </div>
             </div>
