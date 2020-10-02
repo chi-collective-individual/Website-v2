@@ -42,6 +42,7 @@
                     <!--
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     --> 
+                    <div class="split-narrow"><h3>Improving course content in Classical Mechanics</h3><p>Help in improving the course content of TFY4345 (exercises, computational project, supplemental material)</p></div>
                     <div class="split-narrow" ><h3>Oppdatering av kompendium i FY2450 - Astrofysikk </h3><p> Kvalitetssikring av skriving av kompendium. Studenten tegner figurer som illustrasjoner til teksten og lager oppgaver med løsningsforslag til hvert kapittel. </p></div>
                 </div>
             </div>
