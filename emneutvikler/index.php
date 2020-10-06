@@ -32,7 +32,6 @@
                     <a href="./TFY4163_Ovinger.pdf" target="_blank" title="Utvikling av konseptuelle oppgaver for TFY4163 Bølgefysikk og fluidmekanikk" class="two-split"><div class="hover-shadow"><h3>Utvikling av nye øvinger til Bølgefysikk og fluidmekanikk</h3><p>I dette prosjektet ønsker vi å identifisere elementer av faget som er konseptuelt utfordrende for studentene og utvikle både spørsmål og oppgaver... Les mer.</p><br><span>Announced: 02.10.20</span></div></a>
                     <a href="./fy3403.pdf" target="_blank" title="Numerical exercises in particle physics" class="two-split"><div class="hover-shadow"><h3>Developing numerical exercises for Particle Physics </h3><p>Exercises in particle physics contain often tedious calculations of traces over gamma matrices or rather complicated phase space integrals. Aim of this project is to develop exercises... Show more.</p></div></a>
                     <a href="./Prosjekt_videoanalys.pdf" target="_blank" title="Videoanalyse Tracker" class="two-split"><div class="hover-shadow"><h3>Videoanalyseprogrammet Tracker</h3><p>Delar av laborationerna vid institutt for fysikk är baserade på videoanalysprogrammet Tracker. Det finns idag ett introduktionshäfte som beskriver programmet och visar på exempel på bruk... Les mer.</p></div></a>
-                    <a href="./Studentprosjekt_IFYKJ_LAB.pdf" target="_blank" title="IFY/KJ nettside" class="two-split"><div class="hover-shadow"><h3>Nettside til fysikk/kjemi lab</h3><p>Emnet Fysikk/kjemi på 10 studiepoeng tas i 2. semester av ingeniørstudentene i Trondheim, Ålesund og på Gjøvik. I emnet inngår en laboppgave av moderat omfang tematsk knytet tl mekanikkdelen av emnet. Det er behov for å lage en enkel webside for denne laben.... Les mer.</p></div></a>
                     <a href="./versjonskontrollsystem.pdf" target="_blank" title="Versjonskontrollsystem" class="two-split"><div class="hover-shadow"><h3>Versjonskontroll</h3><p>For å effektivt samarbeide om programvareutvikling brukes det nesten alltid et såkalt versjonskontrollsystem. Et slikt system er Git, og dette er noe flere studenter vil komme borti senere i studiet eller i arbeidslivet. ... Les mer.</p></div></a>
                 </div>
             </div>
@@ -43,6 +42,7 @@
                     <!--
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     --> 
+                    <div class="split-narrow"><h3>Utvikling av nettside til fysikk/kjemi-lab</h3><p>Lage enkel webside for laben, slik at all informasjon kan samles her. </p></div>
                     <div class="split-narrow"><h3>Improving course content in Classical Mechanics</h3><p>Help in improving the course content of TFY4345 (exercises, computational project, supplemental material)</p></div>
                     <div class="split-narrow" ><h3>Oppdatering av kompendium i FY2450 - Astrofysikk </h3><p> Kvalitetssikring av skriving av kompendium. Studenten tegner figurer som illustrasjoner til teksten og lager oppgaver med løsningsforslag til hvert kapittel. </p></div>
                 </div>
