@@ -24,11 +24,11 @@
             <img src="../images/facultyFocus.jpg" id="top-content" alt="Picture can't load">
 
             <h1>Studentprosjekter</h1>
-            <p class="center-paragraph">Ønsker du å skape noe helt eget, eller teame opp med andre studenter for å utvikle en idé? Dette er stedet for å tenke stort, og lufte ideér. Annonser din egen idé for å tiltrekke medstudenter eller bli med på et eksisterende prosjekt.</p>
+            <p class="center-paragraph">Ønsker du å skape noe helt eget, eller samarbeide med andre studenter for å utvikle en idé? Dette er stedet for å tenke stort, og lufte idéer. Annonsér din egen idé for å tiltrekke medstudenter eller bli med på et eksisterende prosjekt.</p>
             
             <div class="bg-blue">
                 <h1>Annonsér din idé</h1>
-                <p class="center-paragraph">Her publiseres nye studentprosjekter fortløpende. Send mail til en av studentassistentene (se <a href="../kontakt.php">kontakt</a>) der du beskriver ideén din og eventuelt hvem du ønsker å samarbeide med. </p>
+                <p class="center-paragraph">Her publiseres nye studentprosjekter fortløpende. Send <a href="../kontakt.php">mail</a> til en av studentassistentene der du beskriver idéen din og eventuelt hvem du ønsker å samarbeide med. </p>
                 <div class="flex-container">
                     <a href="./europeiskRakettprosjekt.pdf" title="Europeisk rakettprosjekt" target="_blank" class="two-split"><div class="hover-shadow"><h3>Europeisk rakettprosjekt</h3><p>Ønsker du ådelta i et europeisk rakettprosjekt? REXUS er et prosjekt drevet avden tyske, den svenske og den europeiske romorganisasjonen, som hjelper studenter med å... Les mer.</p></div></a>
                     <a href="./kvantemekanikk_studentprosjekt.pdf" title="Forstå kvantemekanikk" target="_blank" class="two-split"><div class="hover-shadow"><h3>Forstå kvantemekanikk</h3><p>Spørsmål om hva målinger er, og virkeligheten til bølgefunksjonen blir ofte møtt med tankegangen "hold kjeft og regn". Jeg mener dette er unødvendig siden det finnes mange interessante tankeeksperimenter... Les mer. </p></div></a>
