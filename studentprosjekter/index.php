@@ -42,7 +42,7 @@
 
                     <p class="split-narrow">Revolve NTNU er en uavhengig studentorganisasjon som utvikler Formel 1 biler.<br><a href="https://www.revolve.no/" class="white-arrow">&rarr;</a></p>
                     <p class="split-narrow">Orbit NTNU er en uavhengig studentorganisasjon som lager den første satelitten produsert av studenter i Norge.<br><a href="https://www.orbitntnu.com/" class="white-arrow">&rarr;</a></p>
-                    p class="split-narrow">Propulse NTNU er et rakettprosjekt for studenter, av studenter.<br><a href="https://www.propulsentnu.no/" class="white-arrow">&rarr;</a></p>
+                    <p class="split-narrow">Propulse NTNU er et rakettprosjekt for studenter, av studenter.<br><a href="https://www.propulsentnu.no/" class="white-arrow">&rarr;</a></p>
                 </div>
             </div>
 
