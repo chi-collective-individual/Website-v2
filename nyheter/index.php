@@ -14,7 +14,7 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet">
         <script src="scripts/slideshow.js" defer></script>
 
-        <title>Students as Partners</title>
+        <title>PS</title>
     </head>
     <body>
         <?php include('../menu.php'); ?>

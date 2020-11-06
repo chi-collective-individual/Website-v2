@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="../stylesheets/styles.css">
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet">
 
-        <title>SaP - Studentprosjekter</title>
+        <title>PS - Studentprosjekter</title>
 
     </head>
     <body>
@@ -69,7 +69,7 @@
 
                     <a title="Start NTNU" href="https://startntnu.no/" class="two-split"><div class="flex-items border-smaragd small-font bg-smaragd-medium small-padding"><h3>Start NTNU</h3>Start NTNU sitt formål er å inspirere og engasjere studenter til å utforske mulighetene innenfor innovasjon og entreprenørskap. Dette gjør de gjennom å invitere til forskjellige arrangement hvor man tar for seg sentrale problemstillinger innenfor tematikkområdene.</div></a>
 
-                    <a title="Engage" href="https://engage-centre.no" class="two-split"><div class="flex-items border-smaragd small-font bg-smaragd-medium small-padding"><h3>Engage</h3>Engage jobber for å bedre hvordan entrepenørksap undervises i høyere utdanning. De samarbeider tett med noen av de fremste entrepenørmiljøene i Norge, og inviterer gjevnlig til workshops der du kan utfordre deg selv og dine evner som entrepenør.</div></a>
+                    <a title="Engage" href="https://engage-centre.no" class="two-split"><div class="flex-items border-smaragd small-font bg-smaragd-medium small-padding"><h3>Engage</h3>Engage jobber for å bedre hvordan entrepenørskap undervises i høyere utdanning. De samarbeider tett med noen av de fremste entrepenørmiljøene i Norge, og inviterer gjevnlig til workshops der du kan utfordre deg selv og dine evner som entrepenør.</div></a>
 
                     <a title="Innsida" href="https://innsida.ntnu.no/grunder" class="two-split"><div class="flex-items border-smaragd small-font bg-smaragd-medium small-padding"><h3>Innsida</h3>Innsida har en egen side med nyttig informasjon og linker til gründermiljøer i Trondheim. Denne siden kan brukes for å finne informasjon om andre miljøer og nyttige sider som ikke står på denne siden.</div></a>
 

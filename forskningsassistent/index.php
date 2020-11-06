@@ -16,7 +16,7 @@
         <link rel="stylesheet" href="../stylesheets/styles.css">
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet">
 
-        <title>SaP - Forskningsassistent</title>
+        <title>PS - Forskningsassistent</title>
     </head>
     <body>
         <?php include("../menu.php"); ?>
@@ -26,7 +26,7 @@
                 <img src="../images/Geir Mogen2.jpeg" alt="Picture can't load" id="top-content">
                 <p class="text-block">Foto: Geir Mogen</p>
             </div>
-            <!--Information about SaP-->
+            <!--Information about PS-->
             <h1>Forskningsassistent</h1>
             <p class="center-paragraph">Lurer du på hvordan man bruker avansert teori i nyskapende forskning? Ved å være forskningsassistent ved Institutt for fysikk vil du arbeide med vitenskapelig ansatte i deres forskningsprosjekter. Dette gir deg muligheten til å bli med i et av Norges fremste forskningsmiljø lenge før du skal skrive prosjekt eller masteroppgave. </p>
             

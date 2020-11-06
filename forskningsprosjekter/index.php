@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="../stylesheets/styles.css">
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet">
 
-        <title>SaP - Forskningsprosjekter</title>
+        <title>PS - Forskningsprosjekter</title>
     </head>
     <body>
         <?php include('../menu.php'); ?>

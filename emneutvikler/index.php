@@ -14,7 +14,7 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet">
         <script src="scripts/slideshow.js" defer></script>
 
-        <title>SaP - Emneutvikler</title>
+        <title>PS - Emneutvikler</title>
     </head>
     <body>
     <?php include("../menu.php"); ?> 
@@ -23,7 +23,7 @@
             <img src="../images/emneutvikler_cellebio4.jpg" alt="picture can't load" id="top-content">
 
             <h1>Emneutvikler</h1>
-            <p class="center-paragraph">Vil du bidra til å utvikle læringsressurser for kommende studentkull? Ønsker du å få mer kunnskap om god pedagogisk praksis og å videreutvikle undervisningen av fysikk? I Students as Partners (SaP) prosjektet er vi interesserte i å komme i kontakt med studenter som kan tenke seg å bidra til å utvikle morgendagens emner og undervisningen av disse. Du vil samarbeide med faglærere og ressurspersoner innen SaP-prosjektet, som alle jobber mot det samme målet: god undervisning. </p>
+            <p class="center-paragraph">Vil du bidra til å utvikle læringsressurser for kommende studentkull? Ønsker du å få mer kunnskap om god pedagogisk praksis og å videreutvikle undervisningen av fysikk? I Prosjekt Schrödinger (PS) er vi interesserte i å komme i kontakt med studenter som kan tenke seg å bidra til å utvikle morgendagens emner og undervisningen av disse. Du vil samarbeide med faglærere og ressurspersoner, som alle jobber mot det samme målet: god undervisning. </p>
             
             <div class="bg-blue">
                 <h1>Aktive utlysninger</h1>

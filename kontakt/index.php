@@ -17,7 +17,7 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway&" rel="stylesheet"><!--stylesheet for font family here-->
         <script src="scripts/slideshow.js" defer></script>
 
-        <title>Students as Partners</title>
+        <title>PS</title>
     </head>
     <body>
         <!--container for the header that is in all pages-->

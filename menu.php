@@ -1,7 +1,7 @@
 <div class="menu"> 
   <ul>
     <lh><a href="https://ntnu.no/fysikk" title="Institutt for Fysikk" target="_blank"><img src="../images/ifyLogo.jpg"></a></lh>
-    <a href="../index.php" title="Students as Partners"><li>Hjem</li></a>
+    <a href="../index.php" title="Prosjekt Scrödinger"><li>Hjem</li></a>
     <a href="../forskningsprosjekter/index.php" title="Forskningsprosjekter"><li>Forskningsprosjekter</li></a>
     <a href="../emneutvikler/index.php" title="Emneutvikler"><li>Emneutvikler</li></a>
     <a href="../studentprosjekter/index.php" title="Studentprosjekter"><li>Studentprosjekter</li></a>
