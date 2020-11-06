@@ -21,7 +21,7 @@
         <?php include("../menu.php");?>
 
         <div class="indent">
-            <img src="../images/facultyFocus.jpg" id="top-content" alt="Picture can't load">
+            <img src="../images/sapLabFront.jpg" id="top-content" alt="Picture can't load">
 
             <h1>Studentprosjekter</h1>
             <p class="center-paragraph">Ønsker du å skape noe helt eget, eller samarbeide med andre studenter for å utvikle en idé? Dette er stedet for å tenke stort, og lufte idéer. Annonsér din egen idé for å tiltrekke medstudenter eller bli med på et eksisterende prosjekt.</p>

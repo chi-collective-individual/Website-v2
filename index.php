@@ -24,10 +24,10 @@
         <?php include("menuFrontPage.php"); ?>
 
         <div class="indent">
-            <img src="images/sapLabFront.jpg" id="top-content">
+            <img src="images/ps.png" id="top-content">
 
             <!--Information about PS-->
-            <h1>Prosjekt Schrödinger</h1><p class="center">Ønsker du å samarbeide med et av Norges fremste forskningsmiljøer? Her vil ansatte på Institutt for fysikk legge ut prosjekter for studenter fra alle årskull. Vil du utvikle dine egne idéer, eller bidra i et av de mange studentprosjektene på NTNU? Vi hjelper deg å ta steget!</p>
+            <h1>Prosjekt Schrödinger - Studentforskning i fysikk</h1><p class="center">Ønsker du å samarbeide med et av Norges fremste forskningsmiljøer? Her vil ansatte på Institutt for fysikk legge ut prosjekter for studenter fra alle årskull. Vil du utvikle dine egne idéer, eller bidra i et av de mange studentprosjektene på NTNU? Vi hjelper deg å ta steget!</p>
             
             <!--Temporary announcement blueprint below. REMOVE after message is outdated-->
            <!-- <div class="bg-smaragd"><div class="flex-container"><p class="split-narrow">Vil du vite mer om pågående studentprosjekter? Møt opp på fredagskollokvie 1. nov for å høre andre fysikkstudenter fortelle om sine prosjekter...Les mer.<br><a href="https://www.ntnu.edu/physics/colloquia" target="_blank" class="white-arrow">&rarr;</a></p> </div> </div> -->
