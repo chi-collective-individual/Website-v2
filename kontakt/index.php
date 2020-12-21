@@ -27,14 +27,13 @@
             <!--<img src="images/facultyFocus.jpg"> -->
 
             <!--Contact information-->
-            <h1>Kontaktinformasjon til studentassistenter</h1><p class="center">Har du spørsmål til nettsiden eller utlysninger, send en mail eller slå av en prat med studentassistentene som vedlikeholder nettsiden.</p>
-            
+            <h1>Kontaktinformasjon/Contact Information</h1><p class="center">Har du spørsmål til nettsiden eller utlysninger, send en mail eller slå av en prat med studentassistentene som vedlikeholder nettsiden.</p>
+            <p class = "center">Got any questions about the website or job positions, contact one of the students in charge or running the website</p>
             <div class="bg-smaragd">
                 <h1 class="mt">Studentassistenter</h1>
                 <div class="flex-container footer" style="text-align:center;">
                    <p class="split-narrow" >Victoria Bjelland <br><img id="studass" alt="Picture can't load." src="../images/student_assistants/VictoriaMBjelland.jpg"><br> Mail: <a href="mailto:victormb@stud.ntnu.no"> victormb@stud.ntnu.no </a> <br> Mobil:+47 40606115 </p>
-                   <p class="split-narrow" >Alexander Johansen Ohrt <br><img id="studass" alt="Picture can't load." src="../images/student_assistants/AlexanderJO.jpg"><br> Mail: <a href="mailto:alexaoh@stud.ntnu.no"> alexaoh@stud.ntnu.no </a> <br> Mobil:+47 93836710  </p>
-                </div>
+                 </div>
             </div>
 
         </div>
