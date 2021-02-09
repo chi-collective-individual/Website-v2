@@ -34,25 +34,29 @@
                 <h1>Aktive utlysninger</h1>
                 <p class="center-paragraph">Her publiseres nye prosjekter fortløpende.</p>
                 <div class="flex-container">
-                <a title="Utlysning Laser-Interface" href="./laser_interface.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Software integration of laser systems</h3><p> The nonlinear optical microscopy laboratory is used to study nonlinear optical phenomena in different materials, primarily for biomedical applications. To generate a nonlinear optical response in materials pulsed lasers with very short pulse durations (about 100 fs) are used... Show more</p><br><span>Announced: 24.09.20</span></div></a>
+                    <a title="Utlysning Laser-Interface" href="./laser_interface.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Software integration of laser systems</h3><p> The nonlinear optical microscopy laboratory is used to study nonlinear optical phenomena in different materials, primarily for biomedical applications. To generate a nonlinear optical response in materials pulsed lasers with very short pulse durations (about 100 fs) are used... Show more</p><br><span>Announced: 24.09.20</span></div></a>
                     <a title="Utlysning Nano" href="./Nano_announcement.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Real‐World Simulations of Antiferromagnetic Nanostructures</h3><p>We are looking for two motivated students with completed bachelor’s degree in physics, nanotechnology, electronic engineering and/or material science. The candidates should be experienced in Python programming, ... Show more</p><br><span>Announced: 16.09.20</span></div></a>
                     <a title="Utlysning Simonsen" href="./ProjectSimonsen.pdf" target="_blank" class="two-split"><div class="hover-shadow"><h3>Wave scattering from disordered surfaces</h3><p>When an electromagnetic wave interacts with a disordered surface, so-called speckle patterns result. Such patterns have fascinating statistical properties and ... Show more</p><br><span>Announced: 05.02.20</span></div></a>
-                    <a href="./Utlysning_TEM.pdf" target="_blank" title="Research assistant" class="two-split "><div class="hover-shadow"><h3>Utlysning TEM: Programming/data processing</h3><p>In this project a student will apply, further refine or rewrite to a tutorial Juypter notebooks for the analysis of transmission electron microscopy data. Through the project you will become familiar with using open-source... Show more.</p></div></a>
+                    <a href="./Utlysning_TEM.pdf" target="_blank" title="Research assistant" class="two-split "><div class="hover-shadow"><h3>Utlysning TEM: Programming/data processing</h3><p>In this project a student will apply, further refine or rewrite to a tutorial Juypter notebooks for the analysis of transmission electron microscopy data. Through the project you will become familiar with using open-source... Show more.</p><br><span>Announced: 09.02.21</span></div></a>
+                    <a href="./Enzyme_project.pdf" target="_blank" title="Research assistant" class="two-split "><div class="hover-shadow"><h3>Enzyme conjugation for enhanced adsorption</h3><p>The goal of this project was to conjugate lysozyme and alginate using a process called the Maillard reaction... Show more.</p></div></a>
+                    <a href="./Coomassie_blue_project.pdf" target="_blank" title="Research assistant" class="two-split "><div class="hover-shadow"><h3>Characterization of PAMAM-peptide Conjugates</h3><p>.Gel electrophoresis is a widely used tool in biophysics, as it is a relative simple technique capable of characterizing size and/or charge of biomolecules... Show more.</p>br><span>Announced: 09.02.21</span></div></a>
+                    <a href="./Crow_IDP_StudProj.pdf" target="_blank" title="Research assistant" class="two-split "><div class="hover-shadow"><h3>Modeling of intrinsically disordered proteins in a crowded environment</h3><p>In this work we study the coupling between the ionization and the con-formational properties of two IDPs... Show more.</p>br><span>Announced: 09.02.21</span></div></a>
+                    
                 </div>
             </div>
-            
+            <!--Mal:
             <div class="bg-smaragd">
             <h1 class="mt">Pågående prosjekter</h1>
                 <div class="flex-container">
 
-                    <!--Mal:
+                    
                     <p class="split-narrow">...</p><br><a href="nyheter/***.php" class="white-arrow">&rarr;</a></p>
                     -->
-                    <!--<div class="split-narrow"><h3>Utlysning SFF QuSpin</h3><p>Hvordan ivaretas kvinneandelen i fysikkutdannelser? Det kan virke som at det er et stort frafall kvinner innenfor høyere nivå på fysikk, spesielt innenfor teoretisk fysikk. Prosjektet omhandler kartlegging av dette. </p></div> -->
+                    <!--<div class="split-narrow"><h3>Utlysning SFF QuSpin</h3><p>Hvordan ivaretas kvinneandelen i fysikkutdannelser? Det kan virke som at det er et stort frafall kvinner innenfor høyere nivå på fysikk, spesielt innenfor teoretisk fysikk. Prosjektet omhandler kartlegging av dette. </p></div> 
                     
                     <div class="split-narrow"><h3>Analysis of Semiconductor Fibers</h3><p>This project consists of polishing or preparing semiconductor fibers for analysis. If possible, some lithography will be done in the NanoLab. Alternatively, XRD analysis will be conducted in the material science facility. </p></div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="bg-blue">
                 <h1 class="mt">Tidligere prosjekter</h1>
